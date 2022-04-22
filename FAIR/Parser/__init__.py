@@ -1,1 +1,0 @@
-from FAIR.Parser import HookupParser

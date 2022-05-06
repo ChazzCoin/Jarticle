@@ -1,11 +1,12 @@
 from newspaper.nlp import ideal
 from jarEngine.Content import Matcher, Tokenizer
-from jarConfig import config
 from jarEngine.Content.NLP import NLTK
 import math
 
 from jarEngine.Helper.Counter import Counter
-from jarFAIR.Logger import Log
+from FLog.LOGGER import Log
+
+
 
 Log = Log("Engine.Content.Score")
 # -> Return rank with only 1 decimal place
@@ -108,32 +109,30 @@ def get_sentiment_multiplier(sentiment):
     Log.v(f"Sentiment Multiplier: {senti_multiplier}, -> Sentiment:{sentiment}")
     return senti_multiplier
 
-def get_average_sentence_score(raw_content: str, topic, titleWords=None):
-    scores = score_content_sentences(topic, raw_content, titleWords)
+def get_average_sentence_score(raw_content: str, titleWords=None):
+    scores = score_content_sentences(raw_content, titleWords)
     temp_score = 0.0
     for score in scores.keys():
         temp_score += scores[score]
     return temp_score
 
-def score_list_of_sentences(topic, list_of_raw_str: [], titleWords=None):
+def score_list_of_sentences(list_of_raw_str: [], titleWords=None):
     raw_str_content = ""
     for sentence in list_of_raw_str:
         raw_str_content += sentence
-    return score_content_sentences(topic, raw_str_content, titleWords=titleWords)
+    return score_content_sentences(raw_str_content, titleWords=titleWords)
 
 # -> Works Great
-def score_content_sentences(topic, raw_str_content: str, titleWords=None):
+def score_content_sentences(raw_str_content: str, titleWords=None):
     full_raw_content = raw_str_content
-    # for content in raw_str_content:
-    #     full_raw_content += content
-    keywords = topic.get_topic_weighted_terms(topic.name)
+    keywords = NLTK.WEIGHTED_TERMS
     """ Score sentences based on different features """
     senSize = len(full_raw_content)
     sentences = NLTK.tokenize_content_into_sentences(full_raw_content)
     ranks = Counter()
     for i, s in enumerate(sentences):
         sentence = NLTK.split_words(s)
-        titleFeature = title_score(titleWords if titleWords is not None else [""], sentence, topic=topic)
+        titleFeature = title_score(titleWords if titleWords is not None else [""], sentence)
         sentenceLength = length_score(len(sentence))
         sentencePosition = NLTK.sentence_position(i + 1, senSize)
         sbsFeature = sbs(sentence, keywords)
@@ -173,7 +172,7 @@ def dbs(words, keywords):
                 dif = first[0] - second[0]
                 summ += (first[1] * second[1]) / (dif ** 2)
     # Number of intersections
-    k = len(set(keywords.main_category_keys()).intersection(set(words))) + 1
+    k = len(set(keywords.keys()).intersection(set(words))) + 1
     return 1 / (k * (k + 1.0)) * summ
 
 
@@ -181,8 +180,8 @@ def length_score(sentence_len):
     return 1 - math.fabs(ideal - sentence_len) / ideal
 
 
-def title_score(title, sentence, topic):
-    stopwords = topic.stop_words
+def title_score(title, sentence):
+    stopwords = NLTK.stop_words
     if title:
         title = [x for x in title if x not in stopwords]
         count = 0.0

@@ -1,4 +1,4 @@
-from jarConfig import env
+# from jarConfig import env
 
 ENGLISH = "ENGLISH"
 GERMAN = "GERMAN"
@@ -17,7 +17,7 @@ NLP_VERSION = 1
 -> Global Config
 """
 BOT_NAME = "TiffanyBot"
-MASTER_PATH = env.get_env("TIFFANY_BOT_PATH")
+MASTER_PATH = "cwd"
 
 german_key_terms = ["krisen management", "projektmanagement", "expertenmanagement", "uberbruckungsmanagement", "change management"]
 
@@ -34,56 +34,6 @@ table = {
        }
 
 # ------------------------------------------> SET CLIENT INFO <------------------------------------------------------ #
-# 1. REDDIT CLIENT
-reddit_user_agent = env.get_env("REDDIT_USER_AGENT")
-reddit_client_id = env.get_env("REDDIT_CLIENT_ID")
-reddit_client_secret = env.get_env("REDDIT_CLIENT_SECRET")
-reddit_username = env.get_env("REDDIT_USERNAME")
-reddit_password = env.get_env("REDDIT_PASSWORD")
-
-# 2. TWITTER CLIENT
-twitter_consumer_key = env.get_env("TWITTER_CONSUMER_KEY")
-twitter_consumer_secret = env.get_env("TWITTER_CONSUMER_SECRET")
-twitter_access_token = env.get_env("TWITTER_ACCESS_TOKEN")
-twitter_access_token_secret = env.get_env("TWITTER_ACCESS_TOKEN_SECRET")
-# Number of Tweets to Pull per User Threshold
-number_of_tweets = 200
-number_of_tweets_test = 10
-
-# -> SMS NOTIFICATIONS <- #
-# TextBelt: https://textbelt.com/ #
-sms_key = "3b11437549708345091de04ca87cba6129cdfb493NIMu5rAxH3fm9Ie8EEvYqrZw"
-sms_url = 'https://textbelt.com/text'
-sms_number = env.get_env("CELL_NUMBER")
-
-# -------------------------------------------> SET THRESHOLDS <------------------------------------------------------ #
-# 1. REDDIT CRYPTO
-c_goodAuth = {'AutoModerator'}   # authors whom comments are allowed more than once
-c_uniqueCmt = True                # allow one comment per author per symbol
-c_ignoreAuthP = {'example'}       # authors to ignore for posts
-c_ignoreAuthC = {'example'}       # authors to ignore for comment
-c_upvoteRatio = 0.70         # upvote ratio for post to be considered, 0.70 = 70%
-c_ups = 20       # define # of upvotes, post is considered if upvotes exceed this #
-c_limit = 100      # define the limit, comments 'replace more' limit
-c_upvotes = 2     # define # of upvotes, comment is considered if upvotes exceed this #
-c_picks = 10     # define # of picks here, prints as "Top ## picks are:"
-c_picks_ayz = 5   # define # of picks for sentiment analysis
-c_comment_upvote_max = 10000000000  # Set to max essentially
-c_comment_upvote_min = 25
-
-# 1. REDDIT STOCKS
-s_goodAuth = {'AutoModerator'}   # authors whom comments are allowed more than once
-s_uniqueCmt = True                # allow one comment per author per symbol
-s_ignoreAuthP = {'example'}       # authors to ignore for posts
-s_ignoreAuthC = {'example'}       # authors to ignore for comment
-s_upvoteRatio = 0.70         # upvote ratio for post to be considered, 0.70 = 70%
-s_ups = 20       # define # of upvotes, post is considered if upvotes exceed this #
-s_limit = 100      # define the limit, comments 'replace more' limit
-s_upvotes = 2     # define # of upvotes, comment is considered if upvotes exceed this #
-s_picks = 10     # define # of picks here, prints as "Top ## picks are:"
-s_picks_ayz = 5   # define # of picks for sentiment analysis
-s_comment_upvote_max = 10000000000  # Set to max essentially
-s_comment_upvote_min = 25
 
 # ---------------------------------------------> TRAIN WORDS <------------------------------------------------------- #
 # -> BLACKLIST <-

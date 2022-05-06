@@ -3,17 +3,23 @@ import re
 from jarEngine.Content import Score
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 # from nltk.corpus import wordnet as wn
+from nltk.corpus import stopwords
 from nltk.probability import FreqDist
 import nltk.data
-from jarFAIR.Logger import Log
+from FLog.LOGGER import Log
+
+from fopTopic.Topic import Topic
 
 Log = Log("Engine.NLTK")
 tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
-def get_content_sentiment(content, topic) -> {}:
+stop_words = stopwords.words('english')
+WEIGHTED_TERMS = Topic.ALL_CATEGORIES().get_all_weighted_terms()
+
+def get_content_sentiment(content) -> {}:
     """ Sentiment of Content. """
     vader = SentimentIntensityAnalyzer()
-    all_weighted_terms = topic.get_topic_weighted_terms(topic.name)
+    all_weighted_terms = WEIGHTED_TERMS
     vader.lexicon.update(all_weighted_terms)
     score = vader.polarity_scores(content)
     Log.v("get_content_sentiment:", score)
@@ -77,14 +83,14 @@ def remove_special_characters(content):
     newText = re.sub('[^a-zA-Z]', ' ', content)
     return newText
 
-def summarize(topic, title='', content='', max_sents=2):
+def summarize(title='', content='', max_sents=2):
     if not content or not title or max_sents <= 0:
         return []
     summaries = []
     sentences = tokenize_content_into_sentences(content)
     titleWords = split_words(title)
     # Score sentences, and use the top 5 or max_sents sentences
-    ranks = Score.score_list_of_sentences(topic, sentences, titleWords).most_common(max_sents)
+    ranks = Score.score_list_of_sentences(sentences, titleWords).most_common(max_sents)
     for rank in ranks:
         summaries.append(rank[0])
     summaries.sort(key=lambda summary: summary[0])

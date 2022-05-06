@@ -1,6 +1,7 @@
 from jarConfig import config
-from jarFAIR.Logger import Log
-import jarFAIR
+from FLog.LOGGER import Log
+from fairNLP import Language
+from FSON import DICT
 
 Log = Log("Engine.Content.Matcher")
 
@@ -13,7 +14,7 @@ def matcher_v1(topic, word, previous_word, terms_match_result):
     Log.v("process_terms")
     # Combine previous word with current word
     word = str(word).lower()
-    phrase = str(jarFAIR.Language.combine_words(previous_word, word)).lower()
+    phrase = str(Language.combine_words(previous_word, word)).lower()
     # -> Loop Weighted Terms
     for key in topic.use_weighted_terms.main_category_keys():
         key_lower = str(key).lower()
@@ -42,7 +43,7 @@ def matcher_v2(topic, *content):
     """
     Log.v("process_terms")
     # FAIR -> Completely Tokenize Words/Phrases
-    word_list = jarFAIR.Language.complete_tokenization_v2(content)
+    word_list = Language.complete_tokenization_v2(content)
     # -> Get Weighted Terms
     weighted_terms = topic.get_topic_weighted_terms(topic.name)
     # -> Loop/Processing Setup
@@ -53,7 +54,7 @@ def matcher_v2(topic, *content):
         # -> Loop each Weighted Term
         for weighted_term in weighted_terms.main_category_keys():
             # -> Expand Weighted Term
-            expanded_key_list = jarFAIR.Language.expand_word(weighted_term)
+            expanded_key_list = Language.expand_word(weighted_term)
             # -> Loop All Tokens
             for token in word_list:
                 if token in expanded_key_list:
@@ -72,7 +73,7 @@ def matcher_v3(*content, topic=None):
     if not topic:
         topic = Topic()
     # FAIR -> Completely Tokenize Words/Phrases
-    word_list = jarFAIR.Language.complete_tokenization_v2(content)
+    word_list = Language.complete_tokenization_v2(content)
     score = 0
     temp_dict = {}
     return_dict = {}
@@ -80,7 +81,7 @@ def matcher_v3(*content, topic=None):
         weighted_terms = topic.get_topic_weighted_terms(topic_name)
         for w_term in weighted_terms:
             # -> Expand Weighted Term
-            expanded_key_list = jarFAIR.Language.expand_word(w_term)
+            expanded_key_list = Language.expand_word(w_term)
             # -> Loop All Tokens
             for token in word_list:
                 if token in expanded_key_list:
@@ -92,12 +93,4 @@ def matcher_v3(*content, topic=None):
         temp_dict = {}
     return return_dict
 
-
-
-if __name__ == '__main__':
-    from jarConfig.Topic import Topic
-    from Utils import DICT
-    from jarEngine.Content import Word
-    topic = Topic(topicName="Metaverse")
-    title = "Owing to these optimistic projections and its AMD nascent nature, large and small players in the broader technology space have their eyes set on the metaverse industry. Some of the big players that are developing products to either allow users the metaverse experience or create products that enable the vast amount of computing power required to create the virtual extension of physical reality are NVIDIA Corporation (NASDAQ:NVDA), Meta Platforms, Inc. (NASDAQ:FB), and Microsoft Corporation (NASDAQ:MSFT)."
 

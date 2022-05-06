@@ -1,6 +1,6 @@
-from jarConfig.Topic import Topic
-from jarConfig import tif_tickers
-from jarFAIR.Logger import Log
+# from jarConfig.Topic import Topic
+# from jarConfig import tif_tickers
+from FLog.LOGGER import Log
 
 Log = Log("Engine.Content.Ticker")
 

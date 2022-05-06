@@ -1,16 +1,20 @@
-from jarEngine.Content import Score
-from jarEngine.Content.NLP import NLTK
-import jarFAIR
-from jarFAIR.Core import DICT, LIST
+from Jarticle.jArticles import jArticles
+from FSON import DICT
+from FList import LIST
+from fairNLP import Language
+from fopTopic.Topic import Topic
 
-from rsLogger import Log
+from FLog.LOGGER import Log
 Log = Log("Engine.Processor.TopicProcessor")
 
-UNKNOWN = "Unknown"
-UNSURE = "Unsure"
-UNCATEGORIZED = [UNSURE, UNKNOWN]
+# UNKNOWN = "Unknown"
+# UNSURE = "Unsure"
+# UNCATEGORIZED = [UNSURE, UNKNOWN]
+TOPIC = Topic.ALL_CATEGORIES()
+JARTICLE = jArticles.constructor_jarticles()
 
 class TopicProcessor:
+    j = None
     categories = {}
     topic_name = ""
     topic = None
@@ -24,90 +28,73 @@ class TopicProcessor:
     -> 2. Then .start()
     """
 
-    def __init__(self, topic, hookups=None):
-        self.topic = topic
-        if hookups:
-            self.init_list_of_hookups(hookups)
+    # def __init__(self):
+    #     self.j = jArticles.constructor_jarticles()
+    #     articles = JARTICLE.get_articles_last_day_not_empty()
+    #     if articles:
+    #         self.init_list_of_articles(articles)
 
     # -> Master Runner
-    def init_list_of_hookups(self, hookups):
+    def init_list_of_articles(self, articles):
         # X. - Topic PROCESSOR - Loop all raw hookups, score/process each one.
-        for hookup in hookups:
+        for article in articles:
             try:
                 # -> SET tickers from TICKER PROCESSOR
                 # hookup.tickers = DICT.add(self.tickerProcessor.all_tickers_by_hookup[hookup.id], hookup.tickers)
                 # -> BEGIN
-                self.process_single_hookup_v2(hookup)
+                self.process_single_article_v1(article)
             except Exception as e:
-                Log.e(f"Failed to process hookup. hookup= [ {hookup} ] ", error=e)
+                Log.e(f"Failed to process hookup. hookup= [ {article} ] ", error=e)
+                # return article
 
-    def process_single_hookup_v2(self, hookup):
-        Log.d(f"analyze_single_hookup: hookup={hookup.id}")
-        content = jarFAIR.Language.combine_args_str(hookup.title, hookup.description, hookup.body)
-        # -> Score/Match Content
-        Log.d(f"Scoring Hookup: hookup={hookup.id}")
-        scores_by_topic = Score.score_content_v3(content, topic=self.topic)  # { "topic": ( 50, { "word": 5 } ) }
-        # -> Remove matched topics with low scores
-        matched_topics = self.remove_empty_scores(scores_by_topic)
-        # -> Temp Variables
-        highest_topic_name = LIST.get(0, matched_topics)
-        highest_score = LIST.get(1, matched_topics)
-        matched_terms = LIST.get(2, matched_topics)
-        # -> Check Score...
-        if highest_score < 200:
-            highest_topic_name = UNKNOWN
-        elif highest_score < 500:
-            highest_topic_name = UNSURE
-        Log.d(f"Setting Variables: hookup={hookup.id}")
-        hookup.category = highest_topic_name
-        Log.d(f"Categorizing Hookup: hookup={hookup.id}")
-        self.categorize_hookup(highest_topic_name, hookup)
-        Log.d(f"Set Matched Terms: hookup={hookup.id}")
-        hookup.category_scores = matched_terms
-        Log.d(f"Set Sentiment: hookup={hookup.id}")
-        hookup.sentiment = NLTK.get_content_sentiment(content, self.topic)
-        Log.d(f"Set Summary: hookup={hookup.id}")
-        hookup.summary = self.get_summary(hookup=hookup)
-        # LOCAL -> Set Scoring / Ranking
-        hookup.score = highest_score
-        Log.d(f"Set Matched Words: hookup={hookup.id}")
-        if matched_terms:
-            if highest_topic_name not in UNCATEGORIZED:
-                self.matched_words_by_hookup[hookup.id] = LIST.get(1, matched_terms[highest_topic_name], default=[])
-            # GLOBAL -> Set Overall Top Words
-            Log.d(f"Setting overall top words: hookup={hookup.id}")
-            for key in matched_terms.main_category_keys():
-                temp_tup = DICT.get(key, matched_terms)
-                temp_dict = LIST.get(1, temp_tup)
-                self.overall_top_words = DICT.add(temp_dict, self.overall_top_words)
-        Log.d(f"Add Score to Global List: hookup={hookup.id}")
-        self.all_scores.append(float(hookup.score))
-        Log.d(f"Add to Pre-Sorted Hookups: hookup={hookup.id}")
-        self.processed_hookups.append(hookup)
-        Log.d(f"Single Hookup Processed: hookup={hookup.id}")
+    def process_single_article_v1(self, article):
+        try:
+            id = DICT.get("_id", article)
+            cat_attempt = DICT.get("category", article, False)
+            if cat_attempt:
+                return article
+            Log.d(f"process_single_article_v1: article={id}")
+            title = DICT.get("title", article)
+            description = DICT.get("description", article)
+            body = DICT.get("body", article)
+            content = Language.combine_args_str(title, description, body)
+            # -> Score/Match Content
+            main_cats = TOPIC.main_categorizer(content)
+            sub_cats = TOPIC.sub_categorizer(content)
+            # -> Remove matched topics with low scores
+            # -> Main Variables
+            highest_main_cat_name = LIST.get(0, main_cats)
+            highest_main_score = LIST.get(1, main_cats)
+            matched_main_terms = LIST.get(2, main_cats)
+            # -> Sub Variables
+            highest_topic_name = LIST.get(0, sub_cats)
+            highest_score = LIST.get(1, sub_cats)
+            matched_terms = LIST.get(2, sub_cats)
+            Log.d(f"Setting ALL Variables: article={id}")
+            # -> MAIN CATEGORY
+            article["category"] = highest_main_cat_name
+            article["category_scores"] = matched_main_terms
+            article["score"] = highest_main_score
+            # -> SUB CATEGORY
+            article["sub_category"] = highest_topic_name
+            article["sub_category_scores"] = matched_terms
+            article["sub_score"] = highest_score
+            return article
+        except Exception as e:
+            print(f"Failed: {e}")
+            return article
 
-    def categorize_hookup(self, topic_name, hookup):
+
+    """ UNTESTED FUNCTIONS """
+    def place_article_in_category_list(self, topic_name, article):
         if self.categories.__contains__(topic_name):
             temp_list = self.categories[topic_name]
-            temp_list.append(hookup)
+            temp_list.append(article)
             self.categories[topic_name] = temp_list
         else:
-            self.categories[topic_name] = [hookup]
+            self.categories[topic_name] = [article]
 
-    def remove_empty_scores(self, all_scores):
-        highest_score = 0
-        cat_scores = {}
-        highest_topic_name = ""
-        for topic_name in self.topic.main_category_names:
-            result = all_scores[topic_name]
-            score = LIST.get(0, result)
-            if score and score > 1:
-                if score > highest_score:
-                    highest_score = score
-                    highest_topic_name = topic_name
-                cat_scores[topic_name] = result
-        return highest_topic_name, highest_score, cat_scores
 
-    def get_summary(self, hookup):
-        summary = NLTK.summarize(self.topic, hookup.title if hookup.title else "", hookup.body, 2)
-        return summary
+
+if __name__ == '__main__':
+    TopicProcessor()

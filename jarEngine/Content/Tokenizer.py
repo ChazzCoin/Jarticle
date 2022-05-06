@@ -1,7 +1,8 @@
 from jarEngine.Content.NLP import SPACY, NLTK
-import jarFAIR
+# import jarFAIR
+from fairNLP import Language
 from jarConfig import config
-from jarFAIR.Logger import Log
+from FLog.LOGGER import Log
 
 Log = Log("Engine.Content.Tokenizer")
 
@@ -25,7 +26,7 @@ def word_tokenizer_v3(content) -> []:
     return SPACY.tokenize_content_into_words(content)
 
 def word_tokenizer_FAIR(content):
-    return jarFAIR.Language.to_words_v1(content)
+    return Language.to_words_v1(content)
 
 
 def tokenize_content(content, topic=None) -> []:

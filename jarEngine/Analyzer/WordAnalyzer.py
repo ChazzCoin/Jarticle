@@ -1,7 +1,9 @@
 
-import jarFAIR
-from Mongodb.MongoArchive import MongoArchive
-from jarFAIR.Core import DICT, DATE, LIST, Ext
+from FSON import DICT
+from FList import LIST
+from FDate import DATE
+from fairNLP import Language
+from Jarticle.jArticles import jArticles
 
 """
 -> This Analyzer will grab each day from the archive
@@ -19,14 +21,10 @@ TRI_GRAMS = "tri_grams"
 QUAD_GRAMS = "quad_grams"
 
 
-class Analyzer(MongoArchive):
-    topic = Topic()
+class Analyzer:
     original_dates = []
     raw_content = None
-    archive_ids = []
-    archive_dates = []
-    current_date = str(DATE.get_now_date())
-    original_hookups = []
+    current_date = str(DATE.get_now_month_day_year_str())
     # Raw Words
     single_grams = []
     bi_grams = []
@@ -47,7 +45,6 @@ class Analyzer(MongoArchive):
         -> RUNNERS
     """
     # Run Dates in Archive
-    @Ext.safe_args
     def run_archive_dates(self, dates):
         """ Add Dates, Get Archives, Parse Hookups -> Start """
         self.original_dates = dates
@@ -87,7 +84,7 @@ class Analyzer(MongoArchive):
         -> MASTER DYNAMIC ANALYZERS
     """
     def tokenize_raw_content(self, raw_content, applyFilter=True):
-        raw_results = jarFAIR.Language.complete_tokenization_v2(raw_content, toList=False)
+        raw_results = Language.complete_tokenization_v2(raw_content, toList=False)
         self.single_grams = LIST.flatten(self.single_grams, self.filter(content=raw_results[TOKENS], apply=applyFilter))
         self.bi_grams = LIST.flatten(self.bi_grams, self.filter(content=raw_results[BI_GRAMS], apply=applyFilter))
         self.tri_grams = LIST.flatten(self.tri_grams, self.filter(content=raw_results[TRI_GRAMS], apply=applyFilter))
@@ -129,11 +126,11 @@ class Analyzer(MongoArchive):
         -> HELPERS
     """
     def add_hookups(self, hookups: []):
-        self.original_hookups = LIST.merge_hookups(self.original_hookups, hookups)
+        self.original_hookups = LIST.merge_lists(self.original_hookups, hookups)
 
     def prepare_hookups(self):
         for hookup in self.original_hookups:
-            content = jarFAIR.Language.combine_args_str(hookup.title, hookup.description, hookup.body)
+            content = Language.combine_args_str(hookup.title, hookup.description, hookup.body)
             self.tokenize_raw_content(content)
 
     def set_hookups_from_archive(self, date):

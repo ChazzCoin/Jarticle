@@ -1,5 +1,8 @@
 import nltk
 import re
+import random
+import FList.LIST
+from fairNLP import Language
 from jarEngine.Content import Score
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 # from nltk.corpus import wordnet as wn
@@ -9,6 +12,7 @@ import nltk.data
 from FLog.LOGGER import Log
 
 from fopTopic.Topic import Topic
+# from fopCategories import Categorizer
 
 Log = Log("Engine.NLTK")
 tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
@@ -96,6 +100,109 @@ def summarize(title='', content='', max_sents=2):
     summaries.sort(key=lambda summary: summary[0])
     return [summary[1] for summary in summaries]
 
+"""
+- Check for Nouns or Capital letters to better score sentences
+- Check for "but" as it would imply a counter argument.
+- 
+"""
+
+SUMMARY = lambda first, middle, last: f"{first} {middle} {last}"
+
+def summarize_v2(content='', max_sents=5):
+    if not content or max_sents <= 0:
+        return []
+    keepList = []
+    # Pre. -> Convert raw string of text into a List of Sentences.
+    sentences = tokenize_content_into_sentences(content)
+    # 1. -> If only 6 or less sentences to start, return now
+    if len(sentences) <= 6:
+        return Language.combine_words(sentences)
+    # 2. -> Always use the first and last sentence
+    firstSentence = FList.LIST.get(0, sentences, False)
+    if not firstSentence:
+        return False
+    lastIndex = len(keepList) - 1
+    lastSentence = FList.LIST.get(lastIndex, sentences, False)
+    if len(lastSentence) <= 50:
+        lastSentence = FList.LIST.get(lastIndex - 1, sentences, False)
+    # 3. -> Remove First and Last Sentence
+    without_first = FList.LIST.remove_index(0, sentences)
+    without_first_and_last = without_first[:-1]
+    # 4. -> Filter out by length
+    for sen in without_first_and_last:
+        l = len(sen)
+        if 50 < l > 400:
+            continue
+        keepList.append(sen)
+    # 5. -> Section off list into three parts.
+    #           - Beginning, Middle, End.
+    base_count = int(len(keepList) / 3)
+    middle_count = base_count * 2
+    first = keepList[:base_count]
+    middle = keepList[base_count:middle_count]
+    last = keepList[middle_count:]
+    # 6. -> Score each Section
+    first_scored = Topic.ALL_CATEGORIES().score_categorizer(first)
+    middle_scored = Topic.ALL_CATEGORIES().score_categorizer(middle)
+    last_scored = Topic.ALL_CATEGORIES().score_categorizer(last)
+    # 7. -> Filter/Select highest scored sentences from each Section.
+    first_summary = form_summary_v3(first_scored, 1)
+    middle_summary = form_summary_v3(middle_scored, 1)
+    last_summary = form_summary_v3(last_scored, 1)
+    # 8. -> Combine all 3 Sections into 1 Single Body of Text.
+    combined_summary = Language.combine_words(first_summary, middle_summary, last_summary)
+    # 9. -> Combine the first sentence, the middle body and the last sentence to form "The_Summary"
+    The_Summary = SUMMARY(firstSentence, combined_summary, lastSentence)
+    return The_Summary
+
+if __name__ == '__main__':
+    test = "Mr. John Johnson Jr. was born in the U.S.A but earned his Ph.D. in Israel before joining Nike Inc. as an engineer. He also worked at craigslist.org as a business analyst."
+    summary = summarize_v2(test, 2)
+    print(summary)
+
+
+def form_summary_v3(scored_sentences: [], max_sent=5):
+    final_list = []
+    total_count = len(scored_sentences) - 1
+    current_index = 0
+    sorted_scored_sentences = sorted(scored_sentences, key=lambda lst: lst[0], reverse=True)
+    while current_index <= total_count:
+        if len(final_list) >= max_sent:
+            break
+        raw_sent = FList.LIST.get(current_index, sorted_scored_sentences)
+        sent = FList.LIST.get(1, raw_sent)
+        # - Finish up
+        final_list.append(sent)
+        current_index += 1
+    the_summary = Language.combine_words(final_list)
+    return the_summary
+
+def form_summary_v2(scored_sentences: [], max_sent=5):
+    final_list = []
+    total_count = len(scored_sentences) - 1
+    current_count = 0
+    while current_count <= total_count:
+        if len(final_list) >= max_sent + 1:
+            break
+        random_sentence = random.choice(scored_sentences)
+        scored_sentences.remove(random_sentence)
+        sent = FList.LIST.get(1, random_sentence)
+        final_list.append(sent)
+        current_count += 1
+    the_summary = Language.combine_words(final_list)
+    return the_summary
+
+def form_summary(scored_sentences, max):
+    final_list = []
+    for sentence in scored_sentences:
+        if len(final_list) >= max + 1:
+            break
+        sent = FList.LIST.get(1, sentence)
+        final_list.append(sent)
+    the_summary = Language.combine_words(final_list)
+    return the_summary
+
+
 def keywords(content):
     """Get the top 10 keywords and their frequency scores ignores blacklisted
     words in stopwords, counts the number of occurrences of each word, and
@@ -104,11 +211,10 @@ def keywords(content):
     """
     NUM_KEYWORDS = 10
     content = split_words(content)
-    stopwords = ["get_stopwords()"]
     # of words before removing blacklist words
     if content:
         num_words = len(content)
-        content = [x for x in content if x not in stopwords]
+        content = [x for x in content if x not in stop_words]
         freq = {}
         for word in content:
             if word in freq:

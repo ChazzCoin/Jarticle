@@ -1,8 +1,7 @@
 from jarEngine.Content import Tokenizer
-from Models.Hookup import Hookup
-from Mongodb.MongoWords import MongoWords
-from jarFAIR import Language
-from rsLogger import Log
+
+from fairNLP import Language
+from FLog.LOGGER import Log
 Log = Log("Engine.Processor.WordProcessor")
 
 WORDS = "words"

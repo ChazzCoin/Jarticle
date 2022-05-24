@@ -1,0 +1,575 @@
+{
+    "Avalanche": {
+        "category": "coin",
+        "contract_address": [
+            {
+                "contract_address": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+                "platform": {
+                    "coin": {
+                        "id": "5805",
+                        "name": "Avalanche",
+                        "slug": "avalanche",
+                        "symbol": "AVAX"
+                    },
+                    "name": "Avalanche C-Chain"
+                }
+            }
+        ],
+        "date_added": "2020-07-13T00:00:00.000Z",
+        "date_launched": "2018-05-17T00:00:00.000Z",
+        "description": "Avalanche (AVAX) is a cryptocurrency launched in 2018. Avalanche has a current supply of 395,384,583.866584 with 243,245,709.86658403 in circulation. The last known price of Avalanche is 103.86968633 USD and is down -2.15 over the last 24 hours. It is currently trading on 128 active market(s) with $1,089,831,968.86 traded over the last 24 hours. More information can be found at https://avax.network/.",
+        "id": 5805,
+        "is_hidden": 0,
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png",
+        "name": "Avalanche",
+        "notice": "",
+        "platform": null,
+        "self_reported_circulating_supply": null,
+        "self_reported_tags": [
+            "PoS",
+            "Art",
+            "Government",
+            "Health",
+            "Platform",
+            "Sports",
+            "Enterprise Solutions",
+            "Gaming",
+            "Identity",
+            "Interoperability",
+            "Music",
+            "Payments",
+            "Scaling",
+            "Smart Contracts",
+            "Staking",
+            "Polychain Capital Portfolio",
+            "Avalanche Ecosystem",
+            "CMS Holdings Portfolio",
+            "DragonFly Capital Portfolio"
+        ],
+        "slug": "avalanche",
+        "subreddit": "Avax",
+        "symbol": "AVAX",
+        "tag-groups": [
+            "CATEGORY",
+            "CATEGORY",
+            "PLATFORM",
+            "CATEGORY",
+            "PLATFORM",
+            "CATEGORY",
+            "CATEGORY"
+        ],
+        "tag-names": [
+            "DeFi",
+            "Smart Contracts",
+            "Binance Smart Chain Ecosystem",
+            "Polychain Capital Portfolio",
+            "Avalanche Ecosystem",
+            "CMS Holdings Portfolio",
+            "DragonFly Capital Portfolio"
+        ],
+        "tags": [
+            "defi",
+            "smart-contracts",
+            "binance-smart-chain",
+            "polychain-capital-portfolio",
+            "avalanche-ecosystem",
+            "cms-holdings-portfolio",
+            "dragonfly-capital-portfolio"
+        ],
+        "twitter_username": "AvalancheAVAX",
+        "urls": {
+            "announcement": [],
+            "chat": [
+                "https://t.me/avalancheavax",
+                "https://chat.avax.network"
+            ],
+            "explorer": [
+                "https://avascan.info/",
+                "https://explorer.avax.network/",
+                "https://bscscan.com/token/0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
+                "https://avascan.info/blockchain/x/asset/FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z"
+            ],
+            "facebook": [],
+            "message_board": [
+                "https://medium.com/avalancheavax",
+                "https://forum.avax.network"
+            ],
+            "reddit": [
+                "https://reddit.com/r/Avax"
+            ],
+            "source_code": [
+                "https://github.com/ava-labs/avalanchego"
+            ],
+            "technical_doc": [
+                "https://www.avalabs.org/whitepapers"
+            ],
+            "twitter": [
+                "https://twitter.com/AvalancheAVAX"
+            ],
+            "website": [
+                "https://avax.network/",
+                "https://www.avalabs.org/"
+            ]
+        }
+    },
+    "Decentraland": {
+        "category": "token",
+        "contract_address": [
+            {
+                "contract_address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+                "platform": {
+                    "coin": {
+                        "id": "1027",
+                        "name": "Ethereum",
+                        "slug": "ethereum",
+                        "symbol": "ETH"
+                    },
+                    "name": "Ethereum"
+                }
+            },
+            {
+                "contract_address": "0x7838796B6802B18D7Ef58fc8B757705D6c9d12b3",
+                "platform": {
+                    "coin": {
+                        "id": "5601",
+                        "name": "STAKE",
+                        "slug": "xdai",
+                        "symbol": "STAKE"
+                    },
+                    "name": "xDai"
+                }
+            }
+        ],
+        "date_added": "2017-09-17T00:00:00.000Z",
+        "date_launched": null,
+        "description": "Decentraland (MANA) is a cryptocurrency and operates on the Ethereum platform. Decentraland has a current supply of 2,193,909,427.320146 with 1,824,544,434.8740842 in circulation. The last known price of Decentraland is 3.30507144 USD and is down -1.94 over the last 24 hours. It is currently trading on 190 active market(s) with $530,670,321.68 traded over the last 24 hours. More information can be found at https://decentraland.org/.",
+        "id": 1966,
+        "is_hidden": 0,
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png",
+        "name": "Decentraland",
+        "notice": "",
+        "platform": {
+            "id": 1027,
+            "name": "Ethereum",
+            "slug": "ethereum",
+            "symbol": "ETH",
+            "token_address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942"
+        },
+        "self_reported_circulating_supply": null,
+        "self_reported_tags": null,
+        "slug": "decentraland",
+        "subreddit": "decentraland",
+        "symbol": "MANA",
+        "tag-groups": [
+            "CATEGORY",
+            "CATEGORY",
+            "INDUSTRY",
+            "INDUSTRY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "PLATFORM",
+            "CATEGORY"
+        ],
+        "tag-names": [
+            "Platform",
+            "Collectibles & NFTs",
+            "Gaming",
+            "Payments",
+            "Metaverse",
+            "BoostVC Portfolio",
+            "DCG Portfolio",
+            "Fabric Ventures Portfolio",
+            "Kenetic Capital Portfolio",
+            "Polygon Ecosystem",
+            "Play To Earn"
+        ],
+        "tags": [
+            "platform",
+            "collectibles-nfts",
+            "gaming",
+            "payments",
+            "metaverse",
+            "boostvc-portfolio",
+            "dcg-portfolio",
+            "fabric-ventures-portfolio",
+            "kenetic-capital-portfolio",
+            "polygon-ecosystem",
+            "play-to-earn"
+        ],
+        "twitter_username": "decentraland",
+        "urls": {
+            "announcement": [
+                "https://bitcointalk.org/index.php?topic=2065128.0"
+            ],
+            "chat": [
+                "https://t.me/DecentralandTG",
+                "https://dcl.gg/discord"
+            ],
+            "explorer": [
+                "https://etherscan.io/token/decentraland",
+                "https://ethplorer.io/address/0x0f5d2fb29fb7d3cfee444a200298f468908cc942"
+            ],
+            "facebook": [],
+            "message_board": [
+                "https://forum.decentraland.org/"
+            ],
+            "reddit": [
+                "https://reddit.com/r/decentraland"
+            ],
+            "source_code": [
+                "https://github.com/decentraland/mana"
+            ],
+            "technical_doc": [
+                "https://decentraland.org/whitepaper.pdf"
+            ],
+            "twitter": [
+                "https://twitter.com/decentraland"
+            ],
+            "website": [
+                "https://decentraland.org/"
+            ]
+        }
+    },
+    "Ethereum": {
+        "category": "coin",
+        "contract_address": [
+            {
+                "contract_address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+                "platform": {
+                    "coin": {
+                        "id": "1839",
+                        "name": "Binance Coin",
+                        "slug": "binance-coin",
+                        "symbol": "BNB"
+                    },
+                    "name": "Binance Smart Chain (BEP20)"
+                }
+            },
+            {
+                "contract_address": "0x2eaa73bd0db20c64f53febea7b5f5e5bccc7fb8b",
+                "platform": {
+                    "coin": {
+                        "id": "2570",
+                        "name": "TomoChain",
+                        "slug": "tomochain",
+                        "symbol": "TOMO"
+                    },
+                    "name": "TomoChain"
+                }
+            },
+            {
+                "contract_address": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
+                "platform": {
+                    "coin": {
+                        "id": "5426",
+                        "name": "Solana",
+                        "slug": "solana",
+                        "symbol": "SOL"
+                    },
+                    "name": "Solana"
+                }
+            },
+            {
+                "contract_address": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+                "platform": {
+                    "coin": {
+                        "id": "2502",
+                        "name": "Huobi Token",
+                        "slug": "huobi-token",
+                        "symbol": "HT"
+                    },
+                    "name": "HECO"
+                }
+            },
+            {
+                "contract_address": "0xf20d962a6c8f70c731bd838a3a388d7d48fa6e15",
+                "platform": {
+                    "coin": {
+                        "id": "5805",
+                        "name": "Avalanche",
+                        "slug": "avalanche",
+                        "symbol": "AVAX"
+                    },
+                    "name": "Avalanche C-Chain"
+                }
+            },
+            {
+                "contract_address": "0x0200070000000000000000000000000000000000000000000000000000000000",
+                "platform": {
+                    "coin": {
+                        "id": "5802",
+                        "name": "SORA",
+                        "slug": "sora",
+                        "symbol": "XOR"
+                    },
+                    "name": "Sora"
+                }
+            },
+            {
+                "contract_address": "0x1D931Bf8656d795E50eF6D639562C5bD8Ac2B78f",
+                "platform": {
+                    "coin": {
+                        "id": "3626",
+                        "name": "RSK Smart Bitcoin",
+                        "slug": "rsk-smart-bitcoin",
+                        "symbol": "RBTC"
+                    },
+                    "name": "RSK RBTC"
+                }
+            },
+            {
+                "contract_address": "0x85219708c49aa701871ad330a94ea0f41dff24ca",
+                "platform": {
+                    "coin": {
+                        "id": "4747",
+                        "name": "Velas",
+                        "slug": "velas",
+                        "symbol": "VLX"
+                    },
+                    "name": "Velas"
+                }
+            }
+        ],
+        "date_added": "2015-08-07T00:00:00.000Z",
+        "date_launched": null,
+        "description": "Ethereum (ETH) is a cryptocurrency . Users are able to generate ETH through the process of mining. Ethereum has a current supply of 118,955,660.4365. The last known price of Ethereum is 3,735.38312503 USD and is down -0.59 over the last 24 hours. It is currently trading on 4495 active market(s) with $14,915,964,089.99 traded over the last 24 hours. More information can be found at https://www.ethereum.org/.",
+        "id": 1027,
+        "is_hidden": 0,
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+        "name": "Ethereum",
+        "notice": "",
+        "platform": null,
+        "self_reported_circulating_supply": null,
+        "self_reported_tags": null,
+        "slug": "ethereum",
+        "subreddit": "ethereum",
+        "symbol": "ETH",
+        "tag-groups": [
+            "OTHERS",
+            "ALGORITHM",
+            "CATEGORY",
+            "PLATFORM",
+            "PLATFORM",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY"
+        ],
+        "tag-names": [
+            "Mineable",
+            "PoW",
+            "Smart Contracts",
+            "Ethereum Ecosystem",
+            "Binance Smart Chain Ecosystem",
+            "Coinbase Ventures Portfolio",
+            "Three Arrows Capital Portfolio",
+            "Polychain Capital Portfolio",
+            "Binance Labs Portfolio",
+            "Blockchain Capital Portfolio",
+            "BoostVC Portfolio",
+            "CMS Holdings Portfolio",
+            "DCG Portfolio",
+            "DragonFly Capital Portfolio",
+            "Electric Capital Portfolio",
+            "Fabric Ventures Portfolio",
+            "Framework Ventures Portfolio",
+            "Hashkey Capital Portfolio",
+            "Kenetic Capital Portfolio",
+            "Huobi Capital Portfolio",
+            "Alameda Research Portfolio",
+            "a16z Portfolio",
+            "1Confirmation Portfolio",
+            "Winklevoss Capital Portfolio",
+            "USV Portfolio",
+            "Placeholder Ventures Portfolio",
+            "Pantera Capital Portfolio",
+            "Multicoin Capital Portfolio",
+            "Paradigm Portfolio"
+        ],
+        "tags": [
+            "mineable",
+            "pow",
+            "smart-contracts",
+            "ethereum-ecosystem",
+            "binance-smart-chain",
+            "coinbase-ventures-portfolio",
+            "three-arrows-capital-portfolio",
+            "polychain-capital-portfolio",
+            "binance-labs-portfolio",
+            "blockchain-capital-portfolio",
+            "boostvc-portfolio",
+            "cms-holdings-portfolio",
+            "dcg-portfolio",
+            "dragonfly-capital-portfolio",
+            "electric-capital-portfolio",
+            "fabric-ventures-portfolio",
+            "framework-ventures-portfolio",
+            "hashkey-capital-portfolio",
+            "kenetic-capital-portfolio",
+            "huobi-capital-portfolio",
+            "alameda-research-portfolio",
+            "a16z-portfolio",
+            "1confirmation-portfolio",
+            "winklevoss-capital-portfolio",
+            "usv-portfolio",
+            "placeholder-ventures-portfolio",
+            "pantera-capital-portfolio",
+            "multicoin-capital-portfolio",
+            "paradigm-portfolio"
+        ],
+        "twitter_username": "ethereum",
+        "urls": {
+            "announcement": [
+                "https://bitcointalk.org/index.php?topic=428589.0"
+            ],
+            "chat": [
+                "https://gitter.im/orgs/ethereum/rooms"
+            ],
+            "explorer": [
+                "https://etherscan.io/",
+                "https://ethplorer.io/",
+                "https://blockchair.com/ethereum",
+                "https://bscscan.com/token/0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+                "https://eth.tokenview.com/en/blocklist"
+            ],
+            "facebook": [],
+            "message_board": [
+                "https://forum.ethereum.org/",
+                "https://ethresear.ch/"
+            ],
+            "reddit": [
+                "https://reddit.com/r/ethereum"
+            ],
+            "source_code": [
+                "https://github.com/ethereum/go-ethereum"
+            ],
+            "technical_doc": [
+                "https://github.com/ethereum/wiki/wiki/White-Paper"
+            ],
+            "twitter": [
+                "https://twitter.com/ethereum"
+            ],
+            "website": [
+                "https://www.ethereum.org/",
+                "https://en.wikipedia.org/wiki/Ethereum"
+            ]
+        }
+    },
+    "The Sandbox": {
+        "category": "token",
+        "contract_address": [
+            {
+                "contract_address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+                "platform": {
+                    "coin": {
+                        "id": "1027",
+                        "name": "Ethereum",
+                        "slug": "ethereum",
+                        "symbol": "ETH"
+                    },
+                    "name": "Ethereum"
+                }
+            }
+        ],
+        "date_added": "2020-08-05T00:00:00.000Z",
+        "date_launched": null,
+        "description": "The Sandbox (SAND) is a cryptocurrency and operates on the Ethereum platform. The Sandbox has a current supply of 3,000,000,000 with 919,498,319.2233225 in circulation. The last known price of The Sandbox is 5.90354896 USD and is down -0.20 over the last 24 hours. It is currently trading on 143 active market(s) with $1,277,574,604.71 traded over the last 24 hours. More information can be found at https://www.sandbox.game/en/.",
+        "id": 6210,
+        "is_hidden": 0,
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png",
+        "name": "The Sandbox",
+        "notice": "",
+        "platform": {
+            "id": 1027,
+            "name": "Ethereum",
+            "slug": "ethereum",
+            "symbol": "ETH",
+            "token_address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0"
+        },
+        "self_reported_circulating_supply": null,
+        "self_reported_tags": null,
+        "slug": "the-sandbox",
+        "subreddit": "",
+        "symbol": "SAND",
+        "tag-groups": [
+            "CATEGORY",
+            "INDUSTRY",
+            "INDUSTRY",
+            "PLATFORM",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY",
+            "CATEGORY"
+        ],
+        "tag-names": [
+            "Collectibles & NFTs",
+            "Content Creation",
+            "Gaming",
+            "Ethereum Ecosystem",
+            "Binance Launchpad",
+            "Metaverse",
+            "Play To Earn",
+            "Animoca Brands Portfolio"
+        ],
+        "tags": [
+            "collectibles-nfts",
+            "content-creation",
+            "gaming",
+            "ethereum-ecosystem",
+            "binance-launchpad",
+            "metaverse",
+            "play-to-earn",
+            "animoca-brands-portfolio"
+        ],
+        "twitter_username": "thesandboxgame",
+        "urls": {
+            "announcement": [],
+            "chat": [
+                "https://discord.gg/vAe4zvY",
+                "https://t.me/sandboxgame"
+            ],
+            "explorer": [
+                "https://etherscan.io/token/0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+                "https://ethplorer.io/address/0x3845badAde8e6dFF049820680d1F14bD3903a5d0"
+            ],
+            "facebook": [],
+            "message_board": [
+                "https://medium.com/sandbox-game"
+            ],
+            "reddit": [],
+            "source_code": [],
+            "technical_doc": [
+                "http://www.sandbox.game/The_Sandbox_Whitepaper_2020.pdf"
+            ],
+            "twitter": [
+                "https://twitter.com/thesandboxgame"
+            ],
+            "website": [
+                "https://www.sandbox.game/en/"
+            ]
+        }
+    }
+}

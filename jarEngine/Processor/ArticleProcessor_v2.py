@@ -8,7 +8,7 @@ from FDate import DATE
 from jarProvider import ArticleProvider as ap
 
 from FLog.LOGGER import Log
-Log = Log("Engine.Processor.HookupProcessor")
+Log = Log("Jarticle.Engine.Processor.ArticleProcessor_v2")
 
 WORDS = "words"
 BODY = "body"
@@ -28,7 +28,7 @@ def sozin(content):
     tickers = sp.extract_tickers(content)
     stock_tickers = LIST.get(0, tickers)
     crypto_tickers = LIST.get(1, tickers)
-    print("Tickers: " + str(tickers))
+    Log.d("Tickers: " + str(tickers))
     if stock_tickers and crypto_tickers:
         return tickers
     elif stock_tickers:
@@ -56,6 +56,12 @@ def get_sentiment(content):
     sentiment = NLTK.get_content_sentiment(content)
     return sentiment
 
+def get_source_page_rank(article):
+    from jarEngine.Helper import PageRank
+    url = DICT.get("url", article, "unknown")
+    rank = PageRank.get_page_rank(url)
+    return rank
+
 # -> [MASTER]
 def enhance_article(article, content):
     article = categorizer(article)
@@ -63,6 +69,7 @@ def enhance_article(article, content):
     article["summary"] = get_summary(article)
     article["tickers"] = sozin(content)
     article["sentiment"] = get_sentiment(content)
+    article["source_rank"] = get_source_page_rank(article)
     article["updatedDate"] = DATE.mongo_date_today_str()
     return article
 
@@ -79,7 +86,7 @@ class ArticleProcessor:
         """ -> MASTER PROCESSOR ID CREATED HERE <- """
         newClas = cls()
         newClas.isTest = isTest
-        articles = ap.get_no_category_by_1000()
+        articles = ap.get_ready_to_enhance()
         arts = LIST.flatten(articles)
         for article in arts:
             if not article:
@@ -91,7 +98,7 @@ class ArticleProcessor:
         """ -> MASTER PROCESSOR ID CREATED HERE <- """
         newClas = cls()
         newClas.isTest = isTest
-        articles = ap.get_date_range_list(20)
+        articles = ap.get_date_range_list(10)
         arts = LIST.flatten(articles)
         for article in arts:
             if not article:
@@ -108,7 +115,8 @@ class ArticleProcessor:
             return
         # -> Setup
         id = DICT.get("_id", article)
-        Log.i(f"Enhancing Article ID=[ {id} ]")
+        date = DICT.get("published_date", article, "unknown")
+        Log.i(f"Enhancing Article ID=[ {id} ], DATE=[ {date} ]")
         title = DICT.get("title", article)
         body = DICT.get("body", article)
         description = DICT.get("description", article)

@@ -4,9 +4,15 @@ import urllib.request as urllib2
 import http.client as httplib
 import re
 import xml.etree.ElementTree
-from Utils.LOG import Log
+from urllib.parse import urlparse
+from FSON import DICT
+from FList import LIST
+from jarDataProvider import jarProvider
+from FLog.LOGGER import Log
 
 Log = Log("Engine.PageRank")
+
+
 
 class RankProvider(object):
     """Abstract class for obtaining the page rank (popularity)
@@ -179,11 +185,44 @@ GoogleToolbar 2.0.111-big; Windows XP 5.1)")]
     def _wsub(a, b):
         return (a - b) % 4294967296
 
+def get_page_rank(url):
+    """
+    Caching Enabled!
+    """
+    url = urlparse(url).netloc
+    cache = jarProvider.load_dict_from_file("page_rank")
+    if cache is not None:
+        result = DICT.get(url, cache)
+        if result:
+            Log.v("Page Rank is Cached!")
+            return result
+    try:
+        providers = (AlexaTrafficRank(),)
+        Log.d(f"Traffic stats for: {url}")
+        ranks = []
+        for p in providers:
+            ranking = p.get_rank(url)
+            ranks.append(ranking)
+            Log.d("%s:%d" % (p.__class__.__name__, p.get_rank(url)))
+        rank = LIST.get(0, ranks)
+        if cache:
+            temp = DICT.lazy_merge_dicts(cache, { url: rank })
+        else:
+            temp = {url: rank}
+        jarProvider.save_dict_to_file("page_rank", temp, jarProvider.data_path)
+    except Exception as e:
+        Log.e("Page Rank Failed", error=e)
+        rank = None
+    Log.d(f"URL: {url}, Rank: {rank}")
+    return rank
 
-if __name__ == "__main__":
-    url = "https://www.google.com/"
-    providers = (AlexaTrafficRank(),)
 
-    Log.d("Traffic stats for: %s" % (url))
-    for p in providers:
-        Log.d("%s:%d" % (p.__class__.__name__, p.get_rank(url)))
+if __name__ == '__main__':
+    print(get_page_rank("https://www.youtube.com/"))
+# if __name__ == "__main__":
+#     url = "https://www.twitch.com/"
+#     providers = (AlexaTrafficRank(),)
+#
+#     Log.d("Traffic stats for: %s" % (url))
+#     for p in providers:
+#         Log.d("%s:%d" % (p.__class__.__name__, p.get_rank(url)))

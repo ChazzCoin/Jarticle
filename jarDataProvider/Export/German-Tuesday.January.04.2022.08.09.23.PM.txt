@@ -1,0 +1,1245 @@
+
+
+Hookup Count: 19
+
+
+---------NEW HOOKUP--------
+
+-> RANK: 1
+-> TITLE: Mit Mini-Recherche in die Business Class: Vielflieger packen aus
+-> DATE: 2022-01-04 05:27:00+00:00
+
+
+{
+    "author": "['Christian Mayer']",
+    "body_score": 115,
+    "category": "German",
+    "description": "Um genug Meilen f\u00fcr einen Flug in der Business Class zu sammeln, m\u00fcsst ihr nicht viel fliegen. Kleine Ver\u00e4nderungen im Alltag reichen aus.",
+    "description_score": 10,
+    "rank": 1,
+    "score": 110.4,
+    "sentiment": {
+        "compound": -0.9989,
+        "neg": 0.119,
+        "neu": 0.879,
+        "pos": 0.002
+    },
+    "source": "https://www.businessinsider.de",
+    "source_rank": 41043,
+    "tickers": {
+        "Crypto": {},
+        "Stocks": {}
+    },
+    "title_score": 0,
+    "url": "https://www.businessinsider.de/wirtschaft/mobility/mit-mini-recherche-in-die-business-class-vielflieger-packen-aus-b/"
+}
+BODY:
+Dominik (r.) und Stefan Bamberger sammeln Meilen – und fliegen seit 2016 Langstrecken nur noch in Business- und First Class, hier bei KLM.
+
+Viele denken, man müsse Vielflieger sein, um genug Meilen für einen Flug in der Business Class zu sammeln. Die beiden Youtuber Stefan und Dominik Bamberger sammeln Meilen im Alltag, zum Beispiel beim Einkaufen, von denen sie seit vielen Jahren ihre Business- und First Class-Flüge bezahlen. Ihre These ist, dass mit ein wenig Recherche und minimaler Anpassung des Einkaufsverhaltens jeder mindestens ein Mal im Jahr in der Business Class fliegen kann. Mehr Artikel auf Business Insider findet ihr hier
+
+Wenn ihr in ein Flugzeug steigt, lauft ihr meistens vorne erst einmal an der Business Class vorbei. Dort sind die Sitzplätze mit viel Platz, größeren Monitoren und der Möglichkeit, den Sitz zum Bett umzubauen. Aber nicht jeder kann sich ein Ticket für die Business Class leisten. Oder doch?
+
+Die beiden Youtuber Stefan und Dominik Bamberger sind Vielreisende. Auf ihrem Blog „YourTravel.TV“ erklären sie euch, wie ihr ohne großen Aufwand im Alltag Punkte sammeln könnt, die ihr eines Tages in Meilen umwandeln und damit in der Business Class fliegen könnt. Die Erkenntnis: Es geht schneller als man denkt.
+
+„Mit minimaler Recherche ist es für jeden möglich, in der Business Class statt in der Economy zu fliegen“, sagt Dominik Bamberger im Gespräch mit Business Insider. Der beste Start in das Geschäft mit den Meilen ist die Payback-Karte. An dem Kundenbindungsprogramm sind unter anderem Aral, Rewe, Penny und die Drogeriemarktkette dm angeschlossen. „Es geht darum, sich zu fokussieren“, erklärt Stefan Bamberger: Nach wenigen Wochen habe man die nötigen Tricks raus, um die Punkte zu maximieren – mithilfe zum Beispiel von Coupons und Mehrfachpunkten. „Dann geht man im Zweifel eben mehrmals pro Woche einkaufen oder speziell an einem Samstag zu Real, wenn es dort tausend Sonderpunkte ab einem Einkaufswert von 100 Euro gibt.“
+
+
+
+Business Insider Newsletter von Chefredakteur Romanus Otte Hinweise zu Versand, Datenschutz & Widerruf
+
+
+
+Die Strategie: Punkte im Alltag sammeln und in Meilen umwandeln lassen
+
+Hat man erst einmal den Dreh raus, werde man ganz automatisch zum Punktejäger, sind die beiden überzeugt. Die Strategie dahinter ist: Die Punkte, die man im Alltag mehr oder weniger nebenbei sammelt, lassen sich in Meilen für das Meilenprogramm „Miles & More“ umwandeln. Zu bestimmten Zeitpunkten im Jahr gibt es sogar spezielle Aktionen, an denen ihr für die Umwandlung in Meilen noch weitere Extra-Meilen bekommt. „Das alles erfordert natürlich eine strenge Planung“, so Stefan Bamberger. „Aber man muss sich immer das Ziel vor Augen halten, dass man anstelle von zwölf Stunden in der Economy Class zu sitzen, in der Business Class sitzen kann, mit allen Bequemlichkeiten, die dazu gehören: ein Koffer mehr, die Lounge, die schnellere Schlange an der Sicherheitskontrolle…“.
+
+Die beiden empfehlen, dass ihr euch im nächsten Schritt bei einem der Vielfliegerprogramme registriert. „In Deutschland macht die Kombination aus Payback-Punkten und Miles & More Sinn“, sagt Dominik Bamberger. Einer der größten Anfängerfehler sei, seine Energie auf mehrere Vielfliegerprogramme aufzuteilen.
+
+Hat man 55.000 Meilen gesammelt, könne man mit Lufthansa zum Beispiel schon hin und zurück in der Business Class in die USA fliegen. Wichtig dabei: Es handelt sich dennoch nicht um einen Freiflug. Steuern und Gebühren müsst ihr trotzdem zahlen – die sind aber meistens günstiger als ein Ticket in der Economy Class. Um diese Flüge zu finden, solltet ihr bei Lufthansa und den Tochter-Airlines Swiss und Austrian nach den sogenannten Meilenschnäppchen suchen.
+
+Externer Inhalt nicht verfügbar Deine Privatsphäre-Einstellungen verhindern das Laden und Anzeigen aller externen Inhalte (z.B. Grafiken oder Tabellen) und Sozialen Netzwerke (z.B. Youtube, Twitter, Facebook, Instagram etc.) Zur Anzeige aktiviere bitte die Einstellungen für Soziale Netzwerke und externe Inhalte in den Privatsphäre-Einstellungen. Privatsphäre-Einstellungen ändern
+
+Für Zeitungsabos und Gutscheine bekommt ihr oft auch Meilen-Angebote
+
+Eine andere Möglichkeit, schneller Meilen zu sammeln, sind Zeitungsabos. „Oft werden solche Abos zusammen mit vielen Meilen angeboten. Man kann sich zum Beispiel im Freundeskreis umhören, wer sowieso eine Zeitung abonnieren wollten und sagen: Ich abonniere sie für dich“, so Dominik Bamberger. Oder ihr arbeitet mit Wunschgutscheinen. Oft bekommt ihr Meilen für den Kauf von bestimmten Gutscheinen. Anstatt direkt bei Amazon zu bestellen, wofür ihr keine Meilen bekommen würdet, könnt ihr also einfach mit einem Gutschein bezahlen, für dessen Kauf ihr Meilen bekommt.
+
+Für die beiden Vielflieger ist aus der Leidenschaft inzwischen ein Beruf geworden. Seit 2016 drehen sie regelmäßig Videos von ihren Business- und First Class-Flügen und stellen sie auf Youtube. Mehr als 150.000 Abonnenten haben sie dort schon. „Wir optimieren das Meilensammeln schon sehr extrem – aber seit 2015 sind wir auf Langstrecken nicht mehr in der Economy Class geflogen“, erzählen die beiden. Spaß mache es ihnen immer noch. Vor allen Dingen jetzt, wenn das Reisen wieder zunimmt.
+
+Externer Inhalt nicht verfügbar Deine Privatsphäre-Einstellungen verhindern das Laden und Anzeigen aller externen Inhalte (z.B. Grafiken oder Tabellen) und Sozialen Netzwerke (z.B. Youtube, Twitter, Facebook, Instagram etc.) Zur Anzeige aktiviere bitte die Einstellungen für Soziale Netzwerke und externe Inhalte in den Privatsphäre-Einstellungen. Privatsphäre-Einstellungen ändern
+
+
+---------NEW HOOKUP--------
+
+-> RANK: 2
+-> TITLE: CMS-Mandantin Segro schnappt sich Grundstück im Business Park Berlin
+-> DATE: 2022-01-04 16:36:43+00:00
+
+
+{
+    "author": "[]",
+    "body_score": 40,
+    "category": "German",
+    "description": "",
+    "description_score": 0,
+    "rank": 2,
+    "score": 46.2,
+    "sentiment": {
+        "compound": -0.9844,
+        "neg": 0.083,
+        "neu": 0.911,
+        "pos": 0.007
+    },
+    "source": "https://www.juve.de",
+    "source_rank": 6999207,
+    "tickers": {
+        "Crypto": {},
+        "Stocks": {}
+    },
+    "title_score": 10,
+    "url": "https://www.juve.de/deals/cms-mandantin-segro-schnappt-sich-grundstueck-im-business-park-berlin/"
+}
+BODY:
+Ein 63 Hektar großes Areal im Business Park Berlin ging zum Jahresende 2021 an das britische Immobilienunternehmen Segro. Verkäuferin ist die Flughafengesellschaft Berlin Brandenburg (FBB). Der Kaufpreis ist nicht bekannt, es soll sich bei dem Deal aber um eine der größten Grundstückstransaktionen des vergangenen Jahres handeln, berichten Branchenkenner.
+
+Philipp Schönnenbeck
+
+Segro zählt zu den bekanntesten Projektentwicklern für Gewerbeparks und Logistikimmobilien in Europa. Im Jahr 2008 hatte das Unternehmen von der Flughafengesellschaft bereits eine 38 Hektar große Fläche im Business Park Berlin erworben. Dort stehen mittlerweile Gewerbeeinheiten für rund 70 Mieter aus Branchen wie Medizintechnik, Transport- und Logistikunternehmen sowie Handwerksbetriebe. Für das neue Grundstück sind laut Pressemitteilung unter anderem zusätzliche Light-Industrial-Flächen, die Schaffung von urbanen Last-Mile-Angeboten, sowie Büro- und Serviceflächen geplant.
+
+Der Business Park Berlin wurde in Kooperation mit dem Bezirk Treptow-Köpenick zu einem der größten zusammenhängenden Gewerbegebiete Berlins entwickelt und liegt nur wenige Minuten vom Flughafen BER entfernt. Die Flughafengesellschaft verkaufte mit dem Deal laut Presseberichten ihre letzten Flächen dort.
+
+Berater Segro
+
+CMS Hasche Sigle (Düsseldorf): Dr. Philipp Schönnenbeck, Dr. Christoph Grenz; Associates: Nicole Köppen (Frankfurt), Maike Füchtmann (alle Immobilienrecht)
+
+Berater FBB
+
+Inhouse Recht (Berlin): Dr. Kai Bonitz (Leiter Recht & Compliance), Matthias Döring (Recht & Compliance)
+
+Noerr (Berlin): Dr. Clemens Schönemann, Dr. Henrik Dornscheidt (beide Immobilienrecht), Michael Tomasso (Steuerrecht); Associate: Hanna Pirlich (Immobilienrecht)
+
+Gaßner Groth Siederer & Coll. (Berlin): Dr. Gerrit Aschmann (Öffentliches Planungsrecht)
+
+Notar
+
+Hermann Stapenhorst (Berlin)
+
+Hintergrund: Sowohl CMS-Anwalt Schönnenbeck als auch Noerr-Anwalt Schönemann gehören zur jungen Partnergeneration ihrer Kanzleien. Beide wurden 2021 in die Gesellschafterriege befördert. Und beide waren bereits für ihre Mandanten bei anderen Projekten tätig. Schönnenbeck hat Segro zuletzt beim Kauf eines mehr als 50.000 Quadratmeter umfassenden Grundstücks bei Köln beraten. Zu seinen Mandanten zählt unter anderem auch die börsennotierte Investorin DIC Asset, die er im vergangenen Jahr etwa beim Erwerb von zwei Büroimmobilien in Stuttgart und Frankfurt beriet.
+
+Schönemann gehörte 2019 zu dem Noerr-Team, das die Berliner Flughafengesellschaft beim Kauf des sogenannten ILA-Geländes mandatiert hatte. Er arbeitete schon damals mit Chefjurist Bonitz und dessen Kollegen Döring zusammen. Im vergangenen Jahr war er zudem für mehrere Immobilienunternehmen tätig, als diese Projektentwicklungsgrundstücke ankauften.
+
+
+---------NEW HOOKUP--------
+
+-> RANK: 3
+-> TITLE: Das verbirgt sich hinter Composable Commerce und Packaged Business Capabilities
+-> DATE: 1913-01-01 00:00:00
+
+
+{
+    "author": "['Christiane Fr\u00f6hlich', 'Teilen Auf']",
+    "body_score": 20,
+    "category": "German",
+    "description": "Wenn es um den Aufbau von im E-Commerce-L\u00f6sungen geht, ist immer h\u00e4ufiger von \"Composable Commerce\", \"Packaged Business Capabilities\", \"Headless-Architekturen\" und \"MACH\" die Rede. Wir erkl\u00e4ren, wof\u00fcr diese Begriffe stehen.",
+    "description_score": 10,
+    "rank": 3,
+    "score": 36.6,
+    "sentiment": {
+        "compound": -0.9661,
+        "neg": 0.084,
+        "neu": 0.916,
+        "pos": 0.0
+    },
+    "source": "https://www.internetworld.de",
+    "source_rank": 127070,
+    "tickers": {
+        "Crypto": {},
+        "Stocks": {}
+    },
+    "title_score": 10,
+    "url": "https://www.internetworld.de/shop-technologien/shopsoftware/verbirgt-composable-commerce-packaged-business-capabilities-2718563.html"
+}
+BODY:
+Wenn es um den Aufbau von im E-Commerce-Lösungen geht, ist immer häufiger von "Composable Commerce", "Packaged Business Capabilities", "Headless-Architekturen" und "MACH" die Rede. Wir erklären, wofür diese Begriffe stehen.
+
+Den Begriff "Composable Commerce" hat das US-Marktforschungs- und Beratungsunternehmen Gartner erstmals 2020 in einer Research Note geprägt. Dort schrieben die Analysten: "Digital-Commerce-Plattformen erleben eine fortschreitende Modularisierung in einer cloud-nativen, von vielfältigen Kauferlebnissen geprägten Welt. Für den digitalen Handel verantwortliche Unternehmens- oder Abteilungsleiter sollten sich auf einen "Composable"-Ansatz vorbereiten, der miteinander verbundene Business-Anwendungen, sogenannte "Packaged Business Capabilies", nutzt, um zukunftssichere, digitale Kauferlebnisse zu schaffen."
+
+Doch was genau verbirgt sich dahinter und was ist neu daran? "Composable Commerce" bezeichnet eine IT-Infrastruktur, bei der nicht ein System alle Geschäftsanwendungen abdeckt, sondern eine Vielzahl einzelner Module zu einem gemeinsamen System zusammengefügt werden. Aus unterschiedlichen Bausteinen wird ein Ganzes "komponiert".
+
+Auf den digitalen Commerce bezogen: Statt eines monolithischen Shopsystems, das unter anderem eine Produktdatenbank, das Content Management, die Suche und den Checkout umfasst, werden einzelne Anwendungen wie ein Product-Information-Management-System, eine Suchlösung und ähnliches in einer IT-Landschaft miteinander kombiniert. Die einzelnen Module können von unterschiedlichen Anbietern stammen.
+
+
+---------NEW HOOKUP--------
+
+-> RANK: 4
+-> TITLE: Kann Bitcoin noch verboten werden?
+-> DATE: 2021-12-29 05:00:56+00:00
+
+
+{
+    "author": "['Redaktion Cvj.Ch']",
+    "body_score": 30,
+    "category": "German",
+    "description": "Mit der Anerkennung von digitalen Assets als alternative Anlageklasse schwindet die Chance eines vollst\u00e4ndigen Bitcoin-Verbots.",
+    "description_score": 0,
+    "rank": 4,
+    "score": 28.3,
+    "sentiment": {
+        "compound": -0.9956,
+        "neg": 0.145,
+        "neu": 0.767,
+        "pos": 0.088
+    },
+    "source": "https://cvj.ch",
+    "source_rank": 1262666,
+    "tickers": {
+        "Crypto": {
+            "BTC": 5
+        },
+        "Stocks": {}
+    },
+    "title_score": 0,
+    "url": "https://cvj.ch/fokus/hintergrund/kann-bitcoin-noch-verboten-werden/"
+}
+BODY:
+Mit der Institutionalisierung von Bitcoin und digitalen Assets ändert sich auch langsam das Narrativ der Regulatoren. Einst als Währung für Nerds und Kriminelle verstossen, nutzen nun Banken und Institutionen die dezentrale Innovation. Durch die Anerkennung der Assets schwindet die Chance eines vollständigen Verbots.
+
+Unter Investoren bleiben jedoch Sorgen bestehen. Die Regulation der neuen Assetklasse hat noch keinen Konsens gefunden. Während schon einige Nationen den Handel und Besitz von Kryptowährungen besteuern und die neue Industrie fördern, verbieten andere deren Nutzung. China kriminalisiert neben dem Mining nun auch jegliche Transaktionen über Blockchains.
+
+Ein Dorn im Auge
+
+Bitcoin als Währung ist freies, dezentrales und neutrales Geld, mit einer festgeschriebenen Geldschöpfung. In einem hypothetischen Bitcoin-Standard verlieren Regierungen und Zentralbanken also ihre monetäre Macht und die monetäre Kontrolle über ihre Bevölkerung. Es ist darum nicht verwunderlich, dass sich einige Regierungen vehement dagegen wehren.
+
+Doch Verbote bewirken oft das Gegenteil, wie schon die frühen Zeiten des Internets gezeigt haben. Staaten und Regierungen mussten sich unterordnen, da die Auswirkungen der revolutionären Technologie zu weitreichend waren, um noch gestoppt zu werden. Dies zeigte sich in jüngster Vergangenheit am Messenger-Dienst Telegram. Als dieser in Russland verboten wurde, bescherte das dem Dienst einen immensen Benutzergewinn. Das Blockieren von 18 Millionen IP-Adressen legte einen grossen Teil des Internets in Russland lahm, doch Telegram funktionierte weiter. Nach der Blamage hob Russland das Verbot wieder auf.
+
+Unabhängiges Protokoll
+
+Das Bitcoin-Netzwerk basiert, wie das Internet, auf einem unabhängigen Open-Source Protokoll. Jeder Mensch hat die Möglichkeit das Netzwerk zu nutzen oder gar daran zu partizipieren. Es wird oft als „Geld des Internets“ bezeichnet und ermöglicht, wie wir gerade in Entwicklungsländern sehen, die Inklusion der Bevölkerung an einem globalen Zahlungssystem.
+
+Das dezentrale Netzwerk hat die Möglichkeit geschaffen, zensurresistentes Geld für jeden zugänglich zu machen und dabei keine zentrale Angriffsfläche zu bieten. Bei Bitcoin kann niemand zur Verantwortung gezogen werden, Transaktionen sind endgültig und die Besitzer selbstbestimmt in ihrem Umgang. Das Netzwerk selbst ist anpassungsfähig und kann sich neuen Begebenheiten anpassen.
+
+Verlangsamte Adoption
+
+Ein lokales, nationales Verbot würde die Adoption im Land verlangsamen, diverse Banken in Erklärungsnot bringen und die Bürger kriminalisieren. Menschen verlieren den einfachen Zugang und müssten komplizierte Wege finden, um das Netzwerk zu nutzen. Der Umtausch nationaler Währung in Bitcoin müsste im Ausland oder im privaten Umfeld erfolgen, und es würde schwierig jemanden zu finden, der Interesse daran haben könnte, in diese Währung zu wechseln.
+
+Eine Mehrheit der Menschen würde sich dieser Strapazen und Risiken nicht aussetzen wollen. Die Angst sich strafbar zu machen wird einen grossen Teil davon abhalten, zu partizipieren. Ein Verbot für den Besitz und die Nutzung würde massive Folgen nach sich ziehen und einen Rückgang der Adoption bedeuten. In einem demokratischen Land wird dieser Ausschluss der Bürger zu weiteren Problemen führen. Die Verhinderung der Selbstbestimmung untergräbt das Vertrauen in eine faire Regierung.
+
+Der Streisand-Effekt
+
+Das Verbieten einer freien Technologie und Zensur von Netzwerken schreibt die Gesellschaft eher totalitären Staaten zu. Betroffene Bürger werden bestimmt hinterfragen, warum die Regierung ihnen den Zugang verwehrt. Dabei werden die Menschen rasch das aktuelle Geldsystem hinterfragen, bei welchem Geld aus dem Nichts geschaffen wird. Dann sind wohl rasch Zentralbanken und korrupte Politiker als Verhinderer ausgemacht. Ein Fundament für eine Revolution.
+
+„Es ist gut, dass die Menschen in der Nation unser Bank- und Geldsystem nicht verstehen, denn wenn sie es täten, würde es meiner Meinung nach noch vor morgen früh eine Revolution geben.“ – Henry Ford
+
+In Venezuela und im Libanon unterliegt die nationale Währung schon seit jahren einer starken Hyperinflation. Da werden seit Jahren steigende Summen über LocalBitcoins gehandelt. Wenn die Menschen nichts mehr zu verlieren haben, was die Geldentwertung betrifft, suchen sie nach Auswegen. Das liegt in der Natur des Menschen.
+
+Förderung der Innovation
+
+Durch Bitcoin wurde die Distributed Ledger Technologie vorangetrieben, auf welche heute diverse Unternehmen, Banken und Regierungen setzen. Unter anderem werden COVID-Zertifikate, Gesundheitsdaten oder Aktienanteile darin gespeichert. Durch ein Verbot der Grundlage sind nicht nur dessen Abkömmlinge gefährdet, sondern auch grosse Teile der Wirtschaft. Die Verantwortung sich der Entwicklung einer Technologie zu verwehren, kann sich kein Land erlauben. Ein sogenannter Brain-Drain wären die Folgen, wenn sich die innovativen Unternehmen und Programmierer im Ausland nach besseren Bedingungen umsehen.
+
+Die Transparenz des Netzwerks ist ein gutes Argumentarium für wohlwollende Staaten. Die pseudonymen Transaktionen sind für jedermann einsehbar und auf ewig gespeichert. Staaten haben die Möglichkeit die Blockchain zu analysieren und Zahlungen zu verfolgen, was bei Bargeld nicht so einfach möglich ist.
+
+Steuereinnahmen
+
+Mit der Legitimierung als digitales Asset könnten Staaten mehrfach profitieren. Neben Steuereinahmen eines Vermögenswerts schaffen die richtigen Rahmenbedingungen einen Nährboden für innovative Unternehmen und Dienstleister. Selbst ein Teil der Banken wird sich behaupten können und mit ihren Kunden neue Wege finden. Bürger erhalten, wenn gewünscht, eine gewisse Eigenverantwortung zurück.
+
+Der erste Ansatz der USA, Kryptowerte bundesweit und gesetzlich verankert zu regulieren, findet sich im 2’700 Seiten umfassenden Infrastrukturgesetz. Der Monstervorschlag stiess zuweilen auf Kritik, da im Feingedruckten der Umgang mit Geld im generellen zu Lasten der Privatsphäre stärker reguliert werden soll. Die „Digital Asset Bill“ beinhaltet Nachträge, die aber auch einen bedeutenden Eingriff in die Kryptobranche darstellen würden.
+
+Die Branche wünscht sich eine einheitliche Regulierung und hat die Behörden weitestgehend unterstützt. Jedoch sind sich die unterschiedlichen Bundesbehörden nicht einig, wer was und wie beaufsichtigen soll und besteuern darf.
+
+
+---------NEW HOOKUP--------
+
+-> RANK: 5
+-> TITLE: Assistenz Legal & Business Affairs (m/w/d) bei UFA FICTION GmbH
+-> DATE: 1913-01-01 00:00:00
+
+
+{
+    "author": "['Dwdl.De Gmbh']",
+    "body_score": 0,
+    "category": "German",
+    "description": "Seit dem 04.01.2022 sucht UFA FICTION GmbH eine/n Assistenz Legal & Business Affairs (m/w/d) in Potsdam. Jetzt Anzeige bei DWDL.jobs lesen \u25ba",
+    "description_score": 10,
+    "rank": 5,
+    "score": 21.1,
+    "sentiment": {
+        "compound": 0.25,
+        "neg": 0.0,
+        "neu": 0.947,
+        "pos": 0.053
+    },
+    "source": "https://www.dwdl.de",
+    "source_rank": 136348,
+    "tickers": {
+        "Crypto": {},
+        "Stocks": {}
+    },
+    "title_score": 10,
+    "url": "https://www.dwdl.de/jobboerse/30775_ufafictiongmbh.html"
+}
+BODY:
+Newsletter
+
+DWDL.jobs
+
+Aktuell sind 688 Stellenanzeigen online, davon 282 in Köln, 115 in Berlin, 173 München und viele mehr in über 25 weiteren Städten.
+
+Anzeige schalten Anzeigen ansehen
+
+
+---------NEW HOOKUP--------
+
+-> RANK: 6
+-> TITLE: Crypto Weekly #39: Das war das Kryptojahr 2021
+-> DATE: 2021-12-30 14:41:43+00:00
+
+
+{
+    "author": "['Dominik Meisinger', 'Die Redaktion']",
+    "body_score": 20,
+    "category": "German",
+    "description": "In dieser Sonderausgabe des Crypto Weekly blicken wir nicht auf die vergangenen sieben Tage, sondern gleich auf das ganze Jahr zur\u00fcck - und sehen uns an, was aus 1.000 Euro Investment in unterschiedlichen Krypto-Assets geworden w\u00e4re.",
+    "description_score": 0,
+    "rank": 6,
+    "score": 20.9,
+    "sentiment": {
+        "compound": 0.9991,
+        "neg": 0.109,
+        "neu": 0.737,
+        "pos": 0.153
+    },
+    "source": "https://brutkasten.com",
+    "source_rank": 1143833,
+    "tickers": {
+        "Crypto": {
+            "ADA": 5,
+            "BNB": 2,
+            "BTC": 13,
+            "DOGE": 5,
+            "DOT": 2,
+            "ETH": 7,
+            "MATIC": 2,
+            "SOL": 2,
+            "UNI": 2,
+            "XRP": 4
+        },
+        "Stocks": {
+            "LUNA": 3
+        }
+    },
+    "title_score": 0,
+    "url": "https://brutkasten.com/crypto-weekly-39/"
+}
+BODY:
+Im brutkasten Crypto Weekly, das hier per Mail abonniert werden kann, blicken wir jeden Freitag auf die wichtigsten Kursbewegungen und Nachrichten der Krypto-Woche zurück. Wegen des Jahreswechsels machen wir aber diese Woche – wie auch schon zu Weihnachten – erneut eine Ausnahme: Das Crypto Weekly erscheint diese Woche bereits am Donnerstag – und noch dazu in einer Spezialausgabe, in der wir auf das Jahr 2021 zurückblicken.
+
+Und auch diese starten wir, wie üblich, mit einem Blick auf die Kursentwicklungen. Aber diesmal richten wir den Blick nicht auf die vergangenen sieben Tage, sondern auf das gesamte Jahr 2021.
+
+Die Kurstafel:
+
+Name Kurs Performance 2021 Bitcoin (BTC) 47.120 Dollar + 62 % Ethereum (ETH) 3.900 Dollar + 403 % Binance Coin (BNB) 530 Dollar + 1.288 % Solana (SOL) 184 Dollar + 11.402 % Cardano (ADA) 1,21 Dollar + 638 % XRP (XRP) 0,94 Dollar + 280% Terra (LUNA) 85 Dollar + 12.930% Polkadot (DOT) 27 Dollar + 196 % Dogecoin (DOGE) 0,17 Dollar + 3.595 % Polygon (MATIC) 2,50 Dollar + 14.080% Uniswap (UNI) 17 Dollar + 240 % Aktuelle Kurse am Stand von 30. Dezember 2021, Daten von Coinmarketcap
+
+Das sind mitunter gewaltige Zahlen – aber machen wir es doch noch etwas greifbarer. Wie hätten sich 1.000 Euro entwickelt, wenn man sie am 31. Dezember 2020 in die jeweiligen Krypto-Assets investiert hätte?
+
+1.000 Euro Investment am 31. Dezember 2020 wären nun…
+
+Bitcoin (BTC) 1.760 Euro Ethereum (ETH) 5.470 Euro Binance Coin (BNB) 15.130 Euro Solana (SOL) 124.959 Euro Cardano (ADA) 8.070 Euro XRP (XRP) 4.119 Euro Terra (LUNA) 143.360 Euro Polkadot (DOT) 3.200 Euro Dogecoin (DOGE) 40.260 Euro Polygon (MATIC) 154.800 Euro Uniswap (UNI) 3.640 Euro Hinweis: Für die Berechnung wurden Euro-Kurse von Coinmarketcap herangezogen. Aufgrund der Wechselkursschwankungen zwischen Euro und Dollar unterscheiden sich die Kursperformances in den beiden Währungen.
+
+Hier muss natürlich der übliche Disclaimer erwähnt werden: Aus vergangenen Performances lassen sich keine zuverlässigen Schlüsse auf die Zukunft ziehen. Weder lässt sich daraus also ablesen, dass es in dieser Tonart weitergehen wird noch bedeutet die starke Kursperformance des Jahres 2021 notwendigerweise, dass – analog zum Bullrun von 2017 – ein längerer Bärenmarkt vor der Tür steht. Für sich genommen zeigen die Zahlen daher zunächst nur eines: Dass 2021 durchwegs ein sehr starkes Jahr am Kryptomarkt war. Besonders beeindruckend sind natürlich die Kursperformances von Solana und LUNA.
+
+Die Aufwärtsbewegung am Kryptomarkt begann übrigens schon Ende 2020. Der Bitcoin-Kurs etwa überschritt in den letzten Dezembertagen seinen vorigen Höchststand von 2017, der bei knapp unter 20.000 Dollar gelegen war. Sehr rasch ging es dann weit nach oben – zunächst aber noch ohne größere öffentliche Aufmerksamkeit, wie damals auch mein Kollege Dominik Perlaki in einem Kommentar anmerkte. Was allerdings nicht von Dauer war: Mit den Rekordständen kamen wieder mehr und mehr Privatanleger in den Markt.
+
+Tesla investiert in Bitcoin, Bitpanda wird Unicorn
+
+Im Februar stieg der Bitcoin-Kurs auf über 57.000 Dollar – um dann innerhalb weniger Tage um über 10.000 Dollar zu korrigieren. Das war jedoch nur ein kurzer Durchhänger: Der Bull Run hielt danach unvermindert an. Dazu kamen immer wieder positive Nachrichten – so wurde etwa bekannt, dass der Elektroautohersteller Tesla in Bitcoin investiert hatte. Später kündigte das Unternehmen an, am US-Markt Bitcoin-Zahlungen zu akzeptieren. Auch in Österreich nahm man den neuen Krypto-Hype wahr, Bitpanda wurde mit einer 170-Mio.-Dollar-Runde zum ersten Unicorn, das aus der österreichischen Startup-Szene heraus entstanden ist.
+
+Coinbase geht an die Börse, Bitcoin steigt auf knapp 65.000 Dollar
+
+Der vorläufige neue Höchststand bei Bitcoin war am 14. April mit etwas unter 65.000 Dollar erreicht – just an jenem Tag, an dem der mit Spannung erwartete Börsengang von Coinbase über die Bühne ging. Dieser war nicht zuletzt aufgrund seiner Symbolwirkung relevant – zeigte er doch, dass Krypto als Assetklasse mittlerweile auch an der Wall Street angekommen war.
+
+Die größte US-Kryptobörse erreichte an ihrem ersten Handelstag am Aktienmarkt eine Bewertung von über 100 Mio. Dollar. Noch in den ersten Handelsstunden drehte der Kurs jedoch. Und auch die folgenden Wochen sollten für die Coinbase-Aktie eher holprig werden. Für den Kryptomarkt übrigens ebenso: Bei Bitcoin war bereits der vorläufige Höchststand erreicht. Für andere Coins wie etwa Ethereum ging es zunächst noch weiter aufwärts – bei Ether etwa bis auf über 4.000 Dollar.
+
+Marktstimmung dreht im Mai, Musk twittert
+
+Doch spätestens Mitte Mai drehte die Stimmung am Markt endgültig. In den Folgewochen dominierte dann ein Mann und sein Twitter-Account die Kurse: Elon Musk. Zuerst kündigte er überraschend an, dass Tesla keine Bitcoin-Zahlungen mehr akzeptieren werde – aufgrund von Umweltbedenken. Tesla hatte diese Option erst wenige Wochen zuvor am US-Markt eingeführt. In den folgenden Wochen bewegte Musk mit seinen Tweets immer wieder die Kurse – in die eine oder andere Richtung. Neben Bitcoin widmete sich der Tesla-CEO in seinen Tweets vor allem auch Dogecoin, von dem er behauptete, dass es die bessere Bitcoin-Alternative sei.
+
+China geht gegen Mining vor, El Salvador kündigt Bitcoin-Einführung an
+
+Gegenwind für den Markt kam auch aus China, wo die Behörden gegen Mining-Unternehmen vorgingen. In Kombination mit dem zuvor bereits heiß gelaufenen Markt ergab sich ein ungünstiges Umfeld. Der Bitcoin-Kurs rasselte auf unter 40.000 Dollar, am 19. Mai brach er zwischenzeitlich sogar um fast 30 Prozent ein – an nur diesem einen Tag. Die Luft war endgültig draußen, im Juni rutschte der Bitcoin-Kurs zwischenzeitlich auch unter die 30.000-Dollar-Marke. Damit fiel er auf das Niveau vom Jänner zurück. Auch die Ankündigung von El Salvadors Präsidenten Nayib Bukele, Bitcoin in dem lateinamerikanischen Staat zum offiziellen Zahlungsmittel zu machen, änderte an der schwachen Verfassung des Kryptomarkts nichts.
+
+Starker Sommer, Ethereum-Upgrade erfolgreich
+
+Die Marktstimmung verbesserte sich dann erst ab Ende Juli wieder. Bitcoin stieg wieder auf 40.000 Dollar und ließ sich auch von einer Steuerdebatte in den USA nicht beeindrucken. Bei Ethereum ging Anfang August das mit Spannung erwartete „London“-Upgrade erfolgreich über die Bühne – dabei wurde die Gebührenstruktur von Grund auf umgestellt. Im August überschritt der Bitcoin-Kurs dann wieder die 50.000-Dollar-Schwelle.
+
+Cardano und Solana stark nachgefragt, NFT-Hype hält an
+
+Und auch für Ethereum-Konkurrenten war es ein starker Sommer: Der Kurs des Cardano-Tokens ADA stieg auf über 3 Dollar, nachdem das Alonzo-Upgrade für September angekündigt worden war. Mit diesem Hard Fork wurden erstmals Smart Contracts auf der Cardano-Blockchain ermöglicht. In den Raketenmodus schaltete auch Solana. Zudem intensivierte sich der Hype um Non Fungible Token (NFTs) im Sommer. Auf der Handelsplattform OpenSea wurde im August das Sechsfache des Volumens aus dem Vormonat abgewickelt. Auch der Bereich Decentralized Finance (DeFI) wuchs weiter stark, produzierte jedoch auch Negativschlagzeilen mit mehreren großen Hacks.
+
+Investments für Bitpanda, Blockpit und Coinpanion
+
+In Österreich schloss Bitpanda eine 263 Mio. US-Dollar schwere Series-C-Runde zu einer Bewertung von 4,1 Mrd. Dollar ab. Zuvor hatte im Juli Blockpit ein Series-A-Investment in der Höhe von 10 Mio. Dollar geholt. Coinpanion folgte Ende August mit 1,8 Mio. Euro schweren Seedrunde, an der sich unter anderem Hansi Hansmann und Florian Gschwandtner beteiligten.
+
+„Uptober“ bringt Bitcoin-Rekordhoch und ETF in USA
+
+Der September verlief dann noch einmal holprig – auch wegen neuerlichen negativen Nachrichten aus China. El Salvador führte im September Bitcoin dann tatsächlich als offizielles Zahlungsmittel – neben dem US-Dollar – ein, was den Kursen aber ebenfalls keinen Auftrieb verleihen konnte.
+
+Dafür ging es aber im Oktober wieder stark aufwärts – was ihm schnell den Spitznamen „Uptober“ einbrachte. Für gute Stimmung sorgte auch, dass erstmals ein Bitcoin-Futures-ETF in den USA zum Handel zugelassen wurde. Bitcoin knackte schließlich seinen bisherigen Höchststand aus dem April und stieg bis auf rund 69.000 Dollar. Daneben gab es im Herbst einen neuerlichen Hype um Hundecoins, allen voran Shiba Inu. Spätestens mit der Unbenennung des Facebook-Konzerns in Meta wurde das Metaverse auch im Krypto-Bereich zum Hype-Thema. Einen steilen Aufstieg legte außerdem der Terra-Token LUNA hin.
+
+Krypto-Steuer in Österreich beschlossen
+
+In Österreich war im Herbst die Krypto-Steuer das wohl am intensivsten diskutierte Thema: Im August hatte der damalige Finanzminister Gernot Blümel anklingen lassen, die Versteuerung von Krypto-Assets ändern zu wollen. Im November gab es dann einen ersten Ministerialentwurf, im Dezember wurde eine Regierungsvorlage auf den Weg gerbracht. Ab 1. März 2022 werden für Kursgewinne aus Kryptowährungen nun unabhängig von der Haltedauer 27,5 Prozent Kapitalertragssteuer fällig – und zwar rückwirkend auf Käufe, die ab März 2021 erfolgt sind. In der Branche werden die Änderungen dennoch überwiegend positiv beurteilt.
+
+Und wie geht es 2022 weiter? Das haben wir Expert:innen und Gründer aus der österreichischen Krypto-Szene gefragt. Die Antworten gibt’s am morgigen Freitag hier bei uns auf brutkasten.com.
+
+Hier geht’s zu allen Folgen des brutkasten Crypto Weekly
+
+Disclaimer: Dieser Text sowie die Hinweise und Informationen stellen keine Steuerberatung, Anlageberatung oder Empfehlung zum Kauf oder Verkauf von Wertpapieren dar. Sie dienen lediglich der persönlichen Information. Es wird keine Empfehlung für eine bestimmte Anlagestrategie abgegeben. Die Inhalte von brutkasten.com richten sich ausschließlich an natürliche Personen.
+
+
+---------NEW HOOKUP--------
+
+-> RANK: 6
+-> TITLE: Marktkommentar vom 03.01.2021
+-> DATE: 2022-01-03 10:00:48+00:00
+
+
+{
+    "author": "['Patrick Heusser']",
+    "body_score": 12,
+    "category": "German",
+    "description": "Der Marktkommentar mit einem \u00dcberblick \u00fcber das Geschehen an den Kryptom\u00e4rkten, zusammengefasst vom Crypto Broker Team der Crypto Finance AG.",
+    "description_score": 10,
+    "rank": 6,
+    "score": 20.9,
+    "sentiment": {
+        "compound": -0.9951,
+        "neg": 0.117,
+        "neu": 0.818,
+        "pos": 0.066
+    },
+    "source": "https://cvj.ch",
+    "source_rank": 1262666,
+    "tickers": {
+        "Crypto": {
+            "BTC": 3,
+            "ETH": 2
+        },
+        "Stocks": {
+            "AG": 2
+        }
+    },
+    "title_score": 0,
+    "url": "https://cvj.ch/maerkte/marktkommentar/marktkommentar-vom-03-01-2021/"
+}
+BODY:
+Wiederkehrender Marktkommentar zu den Geschehnissen an den Kryptomärkten, zusammengefasst vom Crypto Broker Team der Crypto Finance AG. Marktkommentar
+
+Guten Morgen!
+
+Das Jahr 2022 steht für mich ganz im Zeichen von produktiven Anlagen und Protokollen, die mich und andere Kleinhändler/Investoren dabei unterstützen können, zusätzliche Renditen aus Coinbeständen zu erzielen. Sie hören das nicht zum ersten Mal von mir. Ich habe schon oft darauf hingewiesen, dass ich hauptsächlich Coins halte, mit denen sich neben dem Kursanstieg zusätzliche Renditen erzielen lassen.
+
+Ich glaube auch, dass wir im Jahr 2022 die erste Welle der Massenadoption im DeFi-Sektor erleben werden. Sie fragen sich jetzt vielleicht, warum ich die erste DeFi-Rallye Anfang 2021 nicht als erste Welle betrachte. Das liegt daran, dass ich glaube, dass institutionelle Krypto-Händler und -Fonds (und nicht der Einzelhandel) diese Rallye angetrieben haben. Ausserdem glaube ich, dass wir uns in einem Multi-Chain-Universum befinden werden und nicht nur hauptsächlich auf der Ethereum-Plattform, wie es Anfang 2021 der Fall war. Deshalb halte ich Ausschau nach Aggregator-Tools, die es dem Privatkunden leichter machen, sein Kapital einzusetzen. Zuletzt, aber sehr wichtig, ist die Tatsache, dass ich glaube, dass Derivate, Hebelprodukte und dApps auch für den privaten Händler/Investor verfügbar und einfach zu nutzen sein werden.
+
+Institutioneller Geldfluss
+
+Aber bitte verstehen Sie mich hier nicht falsch. Ich werde auch den institutionellen Fluss im Auge behalten, der im Jahr 2022 definitiv zunehmen wird. Allerdings wird dieser Strom weit entfernt vom DeFi-Ökosystem sein und hauptsächlich eine Handvoll Coins umfassen. Was den institutionellen Bereich betrifft, so sehe ich Infrastrukturprojekte, Investitionen und Tokenisierungsprojekte als die vorherrschenden heissen Themen. Aber die regulatorische Unsicherheit wird die Institutionellen daran hindern, aggressiv in den DeFi-Bereich vorzudringen.
+
+Mitte 2021 änderte sich meine persönliche Risikokapitalallokation: Sie ging von 85% Bitcoin-Exposure (der Rest in Stablecoins) auf etwa 55% Bitcoin und den Rest in verschiedene Altcoins plus einige Stablecoins. Der Auslöser war für mich der NFT-Hype, die DeFi-Rallye und die dApps und Plattformen, die in dieser Zeit entstanden sind und mir die Möglichkeit gaben, mein Kapital über verschiedene Coins und Ökosysteme (in einem Multi-Chain-Universum) zu verwalten. Erlauben Sie mir nun, etwas konkreter zu werden und Ihnen die dApps, Plattformen und Aggregatoren zu zeigen, die ich benutze, um meine Investitionen in einem Multi-Chain DeFi Universum zu verwalten.
+
+Verschiedene Werkzeuge
+
+Anfangs fiel es mir immer schwer, den Überblick über all meine verschiedenen Investitionen zu behalten. Ich habe mich auf eine Handvoll Coins oder Farmen beschränkt, um nicht die Kontrolle oder den Überblick zu verlieren. Eines der nützlichsten Multi-Chain-Portfolio-Tools ist das Ape Board. Es erlaubt mir, verschiedene Wallet-Adressen von verschiedenen Chains hinzuzufügen und alle Investitionen auf einer Übersichtsseite zu sehen. Es gibt auch sehr gute Portfolio-Tools auf einer kettenspezifischen Ebene wie Step, Sonar Watch, Zapper und DeBank.
+
+Ein weiteres Thema, mit dem ich mich befassen musste, war die Suche nach zuverlässigen kettenübergreifenden Brücken, die mir helfen würden, Coins von einem Ökosystem in ein anderes zu verschieben. Wäre es nicht viel einfacher, wenn es Cross-Chain-Bridge-Aggregatoren gäbe? So etwas wie 1Inch, der am weitesten verbreitete Aggregator für DEXs? Es gibt einige davon, aber das ist definitiv ein Bereich, der noch verbesserungswürdig ist. Für den Kleinhändler/Investor ist es absolut machbar (siehe einige Vorschläge für kettenübergreifenden Brücken und Aggregatoren unten):
+
+Li.Finance
+
+Movr Network (noch nicht in Betrieb)
+
+Rango-Börse
+
+Wormhole Token-Bridge
+
+Allbridge
+
+Bitte bedenken Sie, dass Bridges ein komplexes Gebilde sind, das hohe Risiken birgt, die für den Nutzer nicht immer offensichtlich sind. Nebenbei bemerkt, sind kettenübergreifende Brücken auch im NFT-Bereich wichtig. Der NFT-Sektor hinkt den DeFi-Entwicklungen im Bereich der kettenübergreifenden Brücken etwas hinterher, aber auch hier ist es nur eine Frage der Zeit. Ich gehe davon aus, dass, sobald einige der grösseren DeFi-Investmentplattformen NFTs als Sicherheiten akzeptieren, das Rennen um eine echte NFT-Cross-Chain-Bridge an Fahrt aufnehmen wird.
+
+Yield Farming
+
+Das letzte Puzzlestück, mit dem ich mich befassen musste, waren die Investitionsplattformen oder dApps. Für Single-Coin-Investitionen, z.B. Leihen und Verleihen oder Liquidity Mining, gibt es sie bereits. Jedes der grösseren Ökosysteme, z.B. Ethereum, Solana, Terra, Polygon und Avalanche, hat seine eigenen dApps (hauptsächlich Forks der ersten auf Ethereum basierenden Versionen). Das Hauptproblem bei diesen Produkten besteht darin, dass die zusätzliche Rendite in Form von Token in der Plattform gebunden ist (meist ihr Governance-Token), der in der Regel eine sehr hohe Inflation/Emission aufweist, was oft zu einem sehr schnellen Preisverfall des Coins und infolgedessen zu einem Rückgang der Rendite führt.
+
+Um es kurz zu machen, es ist und war keine nachhaltige Rendite. Mit dem Staking auf der einen Seite und den derivativen Produkten auf der anderen Seite eröffnete sich ein viel breiterer Anlagehorizont. Tulip bietet zum Beispiel gehebeltes Farming an. Es nutzt die Liquidität der beiden grossen dApps des Solana-Ökosystems: Raydium und Orca. Der maximale Hebel beträgt das Dreifache, und Sie haben die Möglichkeit, verschiedene Arten von Sicherheiten zu verwenden. Die dApps profitieren von einander. Aufgrund der Hebelwirkung von Tulip, Raydium und Orca können sie höhere Einzahlungsraten aufweisen als andere Geldmarktprotokolle. Wem das zu kompliziert ist, der kann auch Yearn nutzen, das viele Strategien, die ich oben beschrieben habe, automatisiert anbietet.
+
+Optionsstrategien
+
+Auf der Optionsseite sind wir nun endlich so weit, dass Kleinanleger mit Strategien wie dem Schreiben von gedeckten Calls zusätzliche Rendite erzielen können. Voraussetzung dafür ist, dass Sie den Coin (wie Bitcoin) besitzen und bereit sind, Ihre Kursgewinne auf das Ausübungsniveau zu begrenzen. Diese Strategien sind sinnvoll, wenn Sie glauben, dass wir uns in einer Konsolidierungsphase befinden. Es gibt zwei dApps, die ich derzeit verwende, um diese Strategien auszuführen. Die eine ist Katana und die andere ist Friktion.
+
+Auf Friktion gibt es derzeit einen BTCUSD Strike von $55k mit einem Verfallstermin am 7. Januar. Die jährliche Rendite von 36% ist ein Durchschnitt der letzten zwei Epochen dieser Strategie. Nach dem Verfall am 7. Januar beginnt die neue Epoche mit einem neuen Strike und einer neuen Laufzeit. Gleich zu Beginn wird der „Aktien-Token-Preis“ 1 BTC betragen. Wenn die Strategie eine positive Rendite abwirft, wird sie wie in der aktuellen Epoche steigen, und Sie können Ihren Anteil mit einem Gewinn einlösen oder ihn laufen lassen, und er wird in der nächsten Epoche aufgezinst.
+
+Wenn Sie auf diesen dApps herumspielen, werden Sie feststellen, dass diese Plattformen viele Coins anbieten, die von verschiedenen Ketten stammen. Das bedeutet, dass Sie Ihre Coins von der nativen Kette zu der dApp, die Sie verwenden, überbrücken müssen, um zusätzliche Rendite zu erzielen.
+
+Der Trading Desk wünscht Ihnen ein erfolgreiches 2022!
+
+
+---------NEW HOOKUP--------
+
+-> RANK: 7
+-> TITLE: Marktkommentar vom 31.12.2021
+-> DATE: 2021-12-31 07:00:57+00:00
+
+
+{
+    "author": "['Daniel Kukan']",
+    "body_score": 10,
+    "category": "German",
+    "description": "Der Marktkommentar mit einem \u00dcberblick \u00fcber das Geschehen an den Kryptom\u00e4rkten, zusammengefasst vom Crypto Broker Team der Crypto Finance AG.",
+    "description_score": 10,
+    "rank": 7,
+    "score": 20.0,
+    "sentiment": {
+        "compound": 0.6296,
+        "neg": 0.13,
+        "neu": 0.737,
+        "pos": 0.132
+    },
+    "source": "https://cvj.ch",
+    "source_rank": 1262666,
+    "tickers": {
+        "Crypto": {
+            "ALGO": 1,
+            "BTC": 5,
+            "ETH": 6
+        },
+        "Stocks": {
+            "AG": 2
+        }
+    },
+    "title_score": 0,
+    "url": "https://cvj.ch/maerkte/marktkommentar/marktkommentar-vom-31-12-2021/"
+}
+BODY:
+Wiederkehrender Marktkommentar zu den Geschehnissen an den Kryptomärkten, zusammengefasst vom Crypto Broker Team der Crypto Finance AG. Marktkommentar
+
+Guten Morgen!
+
+Heute ist der letzte Handelstag des Jahres 2021, und es besteht eine grosse Wahrscheinlichkeit, dass wir den grössten Dezember-Optionsverfall des Jahres erleben werden. Die gesamte Woche wurde durch das Open Interest um 50’000 USD für BTC und 4’000 USD für ETH bestimmt, mit einer Handelsspanne von ca. 12%. Zu Beginn der Woche wurde BTC bei 52.’000 USD und ETH bei 4’140 USD gehandelt, aber der Markt begann dann zum Verfall hin zu schwächeln und fiel wieder unter 50’000 USD und 4’000 USD.
+
+Das Handelsvolumen ist insgesamt leicht gestiegen, während die implizite Volatilität über alle Laufzeiten hinweg weiter gesunken ist. Derzeit liegt die dreimonatige ATM-Volatilität von BTC bei 75.4%, die sechsmonatige ATM-Volatilität bei 77.4%, die dreimonatige ATM-Volatilität von ETH bei 86.9% und die sechsmonatige ATM-Volatilität bei 87.3%. Seit Mitte des Jahres haben wir bei den impliziten Volatilitäten von BTC und ETH keine grossen Exzesse mehr gesehen, und die Handelsspanne ist relativ eng geblieben.
+
+Der ETHBTC-Spread hat sich trotz des grossen Kaufinteresses an ETH während der gesamten Woche auf knapp unter 0.08 abgeschwächt. Ich hatte eigentlich erwartet, dass ETH gegen Ende des Jahres besser abschneiden würde als BTC, was aber definitiv nicht der Fall war. Andere Layer-1-Coins mussten einspringen und die Führung bei den Altcoins übernehmen, z.B. ALGO und ATOM.
+
+Märkte Marktrückblick Kalenderwoche 1 – 2022 Chartanalyse Technische Analyse vom 04.01.2022 Invest Institutionelle Krypto-Adoption im Jahr 2021 Finanzprodukte Erster regulierter Gold-Token eingeführt
+
+Ein aufregendes Jahr für Krypto
+
+Insgesamt war 2021 ein grosses Jahr für die Kryptomärkte: Die gesamte Marktkapitalisierung erreichte 3 Billionen Dollar! Der Anstieg der Marktkapitalisierung ist darauf zurückzuführen, dass globale Risikokapitalfonds rund 30 Milliarden Dollar in den Kryptomarkt investierten. Die grösste Investition war eine Finanzierungsrunde in Höhe von 1 Milliarde Dollar, die von der Krypto-Derivate-Börse FTX aufgebracht wurde; die Custodian New York Digital Investment Group investierte 1 Milliarde Dollar; MoonPay sicherte sich eine Finanzierung in Höhe von 500 Millionen Dollar, und die NFT-Plattform Dapper Labs nahm 350 Millionen Dollar auf. Trotz des unerwarteten harten Vorgehens gegen Kryptowährungen in China wurde weiter investiert, auch in den NFT-Bereich. Das Metaversum ist definitiv kein Modewort mehr, sondern wird uns im neuen Jahr beschäftigen und in Erstaunen versetzen.
+
+Seit Jahren verfolge ich nicht nur die Arbeit der UNIC (Universität Nikosia) zum Thema Krypto, sondern habe auch an ihren Online-Kursen teilgenommen. Der letzte Kurs war eine Einführung in DeFi, für die man nach bestandener Prüfung ein NFT-Zertifikat erhielt. Das nächste Ziel der UNIC ist es, eine grössere Investition in den Metaverse-Raum zu tätigen und jeden, der daran interessiert ist, zu unterrichten. Genau so, wie sie es bei Blockchain, Kryptowährungen und dem digitalen Raum im Allgemeinen getan haben. Denn das Metaverse steht noch ganz am Anfang, und das allgemeine Know-how ist noch recht gering.
+
+Frohes Handeln und ein gutes neues Jahr!
+
+
+---------NEW HOOKUP--------
+
+-> RANK: 8
+-> TITLE: Twitter Aktie: Matt Damon wird für Crypto.com-Werbung gerüffelt!
+-> DATE: 2022-01-04 06:40:48+00:00
+
+
+{
+    "author": "[]",
+    "body_score": 20,
+    "category": "German",
+    "description": "Twitter Aktie: Matt Damon wird f\u00fcr Crypto.com-Werbung ger\u00fcffelt! Was ist da los?",
+    "description_score": 0,
+    "rank": 8,
+    "score": 18.3,
+    "sentiment": {
+        "compound": -0.9925,
+        "neg": 0.1,
+        "neu": 0.883,
+        "pos": 0.017
+    },
+    "source": "https://www.finanztrends.de",
+    "source_rank": 518341,
+    "tickers": {
+        "Crypto": {},
+        "Stocks": {}
+    },
+    "title_score": 0,
+    "url": "https://www.finanztrends.de/twitter-aktie-matt-damon-wird-fuer-crypto-com-werbung-gerueffelt/"
+}
+BODY:
+Ein Werbespot für Crypto.com mit dem Schauspieler Matt Damon in der Hauptrolle, der seit Ende Oktober online ist, ist jetzt ein Trending auf Twitter (NYSE:TWTR).
+
+Was geschah
+
+Im vergangenen Oktober kündigte das in Singapur ansässige Unternehmen Crypto.com eine globale Marketingkampagne an, in der Damon in einem Werbespot mit dem Titel “Fortune Favours the Brave” (Das Glück begünstigt die Mutigen) zu sehen ist, bei dem der Oscar-prämierte Kameramann Wally Pfister Regie führte und der von David Fincher produziert wurde. In einer Presseerklärung erklärte das Unternehmen, der Werbespot unterstreiche sein “eigenes Ethos und inspiriere diejenigen, die den Lauf der Geschichte verändern wollen, mit einem zeitlosen Satz, der erstmals vor Tausenden von Jahren ausgesprochen wurde.”
+
+In dem einminütigen Werbespot geht Damon durch eine museumsähnliche Struktur und sagt dem Zuschauer: “Die Geschichte wird mit Beinahe-Abenteurern betrachtet – die beinahe ein Abenteuer gewagt hätten, die beinahe etwas erreicht hätten, aber letztendlich erwies es sich für sie als zu notwendig.” Damon erinnert den Zuschauer daran, dass diese mutigen Männer und Frauen, die das wissenschaftliche und technologische Wissen durch die Erforschung des Landes, der Luft und des Weltraums vorantrieben, von “vier einfachen Worten angetrieben wurden, die von den Unerschrockenen seit der Zeit der Römer geflüstert wurden: Das Glück begünstigt die Tapferen.”
+
+Sollten Anleger sofort verkaufen? Oder lohnt sich doch der Einstieg bei Twitter?
+
+Was als nächstes geschah
+
+Crypto.com stellte den Werbespot am 28. Oktober auf YouTube ein, und er wurde in Fernsehsendern in mehr als 20 Ländern ausgestrahlt. Ohne ersichtlichen Grund warfen prominente Mitglieder der Unterhaltungs- und Medienbranche auf Twitter heute einen neuen Blick darauf und machten sich über Damon und den Inhalt des Spots lustig. Der Romanautor und Drehbuchautor Paul Rudnick suchte nach einer Hintergrundgeschichte zu der Anzeige, indem er twitterte: “In Matt Damons seltsamer Anzeige für Kryptowährungen sagt er ‘Das Glück begünstigt die Mutigen’: 1) Der Name von Matts kommendem Film, in dem er einen Cowboy namens Fortune Brave spielt 2) Was Matt Ben darüber erzählt hat, dass er wieder mit JLo zusammen ist 3) Wie Matts Buchhalter ihn dazu gebracht hat, die Anzeige zu machen.”
+
+Adam H. Johnson, Co-Moderator des Podcasts “Citations Needed”, twitterte, dass das Traurigste an Matt Damons machohafter Krypto-Werbung, in der der Zuschauer JETZT handeln muss, weil er sonst eine schwache Pussy ist, die Top 3 der klassischen Werbespots ist, mit denen alle Finanzsysteme Männer dazu bringen, ihre mickrigen Ersparnisse abzugeben. Daran hat sich in 150 Jahren nichts geändert.” Ken Klippenstein, ein Autor bei The Intercept, betrachtete auch die finanziellen Aspekte, als er twitterte: “Matt Damon macht eine Krypto-Werbung. Jesus Christus, hat er nicht schon genug Geld?”.
+
+
+---------NEW HOOKUP--------
+
+-> RANK: 9
+-> TITLE: „Im Einkauf herrscht Chaos“: Mitarbeiter frustriert über MediaMarktSaturn
+-> DATE: 2022-01-04 11:28:43+00:00
+
+
+{
+    "author": "['Business Insider Deutschland']",
+    "body_score": 20,
+    "category": "German",
+    "description": "Mitarbeiter berichten von Frust in der Konzernzentrale. Erst 2021 war ein neuer Chef der Elektronik-Fachmarktkette bekannt gegeben worden.",
+    "description_score": 0,
+    "rank": 9,
+    "score": 17.7,
+    "sentiment": {
+        "compound": -0.991,
+        "neg": 0.114,
+        "neu": 0.886,
+        "pos": 0.0
+    },
+    "source": "https://www.businessinsider.de",
+    "source_rank": 41043,
+    "tickers": {
+        "Crypto": {},
+        "Stocks": {}
+    },
+    "title_score": 0,
+    "url": "https://www.businessinsider.de/wirtschaft/handel/im-einkauf-herrscht-nur-noch-chaos-kritik-bei-media-markt-und-saturn/"
+}
+BODY:
+Shutterstock
+
+Mitarbeiter von Media Markt und Saturn äußerten Kritik an den internen Betriebsabläufen. Dies berichtete das „Manager Magazin“. Demnach soll ein Manager von Chaos im Einkauf berichtet haben. Eine andere Führungskraft habe kritisiert, dass die Firma keine Seele mehr habe. Erst im Mai 2021 wurde das ehemalige Eon-Vorstandsmitglied Karsten Wildberger als neuer Chef des Mutterkonzerns Ceconomy und damit einhergehend auch von MediaMarktSaturn bekannt gegeben.
+
+Erst vor wenigen Monaten übernahm Karsten Wildberger die Position als Chef der Elektronik-Fachmarktketten Media Markt und Saturn. Nun wird bereits erste Kritik aus internen Kreisen laut, wie das „Manager Magazin“ berichtete. Demnach soll ein Manager gesagt haben, dass es im Einkauf keine neue Struktur gebe, sondern einfach nur Chaos herrsche. Ein weiterer Insider fand noch deutlichere Worte: „Es läuft grottenschlecht.“ Wie das Magazin berichtete, sank der Umsatz der Kette im vergangenen Jahr um 2,6 Prozent, trotz eines wachsenden Gesamtmarktes.
+
+Bereits vor dem Eintritt Wildbergers kriselte es bei der MediaMarktSaturn-Gruppe. Das „Manager Magazin“ berichtete unter anderem von fehlendem erfahrenen Personal sowie der temporären Besetzung wichtiger Positionen durch fachfremde Personen. Dies scheint Wildberger nun vor eine Herausforderung zu stellen. Eine Führungskraft soll gesagt haben, dass viele Angestellte in der Konzernzentrale in Ingolstadt lediglich auf „den goldenen Handschlag“ warten würden. Und weiter: Die Firma habe keine Seele mehr.
+
+Lest auch Diese fünf Topmanagerinnen und Topmanager werden 2022 Chefposten bei VW, Infineon oder Linde übernehmen
+
+Im Mai 2021 wurde Wildberger als neuer Chef des Mutterkonzerns Ceconomy und damit einhergehend auch von MediaMarktSaturn bekannt gegeben, im August trat er die Stelle an. Die neue Tätigkeit stellte für den Physiker gleichzeitig den Branchenwechsel in den Einzelhandel dar. Zuvor war er Vorstandsmitglied des Energiekonzerns Eon gewesen, unter anderem zuständig für die Bereiche Vertrieb, IT und Digitale Transformation.
+
+AF
+
+
+---------NEW HOOKUP--------
+
+-> RANK: 10
+-> TITLE: Die Nintendo Switch OLED ist jetzt im Angebot bei Media Markt
+-> DATE: 2022-01-04 17:01:42+00:00
+
+
+{
+    "author": "['Annalena Griem', 'Insider Picks']",
+    "body_score": 20,
+    "category": "German",
+    "description": "Bei Media Markt k\u00f6nnt ihr euch die Nintendo Switch OLED in Kombination mit einem Spiel jetzt zum Spitzenpreis sichern! Hier alle Infos.",
+    "description_score": 0,
+    "rank": 10,
+    "score": 17.1,
+    "sentiment": {
+        "compound": -0.9986,
+        "neg": 0.165,
+        "neu": 0.815,
+        "pos": 0.02
+    },
+    "source": "https://www.businessinsider.de",
+    "source_rank": 41043,
+    "tickers": {
+        "Crypto": {},
+        "Stocks": {
+            "JBL": 1,
+            "OLED": 9,
+            "SE": 1
+        }
+    },
+    "title_score": 0,
+    "url": "https://www.businessinsider.de/insider-picks/technik/nintendo-switch-oled-angebot-media-markt/"
+}
+BODY:
+Nintendo
+
+Die Nintendo Switch OLED überzeugt mit ihrem farbintensiven, großen Bildschirm und ist die ideale Konsole für Nintendo-Fans.
+
+Aktuell ist die Switch OLED in Kombination mit einem von fünf Spielen bei Media Markt im Angebot.
+
+Ihr könnt euch die Konsole und „Animal Crossing: New Horizons“, „New Super Mario Bros. U Deluxe“, „Mario Kart 8 Deluxe“, „Super Mario Odyssey“ oder „Mario Party Superstars“ für 389,00 Euro sichern.*
+
+
+
+Disclaimer: Wenn ihr über einen mit Stern gekennzeichneten Link einen Kauf abschließt, erhalten wir eine geringe Provision. Mehr erfahren
+
+
+
+Die Nintendo Switch OLED, welche erst seit Oktober 2021 verkauft wird, zeichnet sich vor allem durch ihren größeren und vor allem besseren OLED-Bildschirm aus. Im Gegensatz zu 6,2 und 5,5 Zoll bei der Switch und der Switch Lite hat die neue Ausführung ein sieben Zoll großes Display. Die OLED-Technologie ermöglicht zudem intensivere Farben, höhere Kontraste und dadurch ein noch beeindruckenderes Spielerlebnis im Handheld- und Tisch-Modus. Kein Wunder also, dass die Konsole ständig ausverkauft ist.
+
+Aktuell ist die Nintendo Switch OLED aber bei Media Markt im Angebot! Im Rahmen der Gutscheinheft-Aktion bekommt ihr die Konsole und eines von fünf Spielen für nur 389,00 Euro.*
+
+Das Media Markt Gutscheinheft 2022
+
+Die beliebte Gutscheinheft-Aktion, bei der ihr euch Fernseher, Kopfhörer, Haushaltsgeräte und mehr zu Spitzenpreisen sichert*, enthält um die 100 Gutscheine, mit denen ihr insgesamt 20.000,00 Euro sparen könnt. Die Angebote gelten sowohl online als auch in den Filialen und laufen noch bis einschließlich Sonntag, den 16. Januar 2022 – oder solange der Vorrat reicht. Mit dabei sind Topmarken wie Samsung, JBL und Huawei und ab einem Bestellwert von 59,00 Euro entfallen zudem die Versandkosten.
+
+Hier findet ihr die spannendsten Deals aus der Gutscheinheft-Aktion:
+
+Lest auch Das Media Markt Gutscheinheft 2021 ist da — das sind die 10 besten Deals der Aktion
+
+Die Nintendo Switch OLED plus Spiel bei Media Markt kaufen
+
+Die Nintendo Switch OLED kostet normalerweise 359,00 Euro. Bei Media Markt bekommt ihr die Konsole in Verbindung mit einem von fünf Spielen, die zwischen 45,99 Euro und 52,99 Euro kosten, für 389,00 Euro – ihr spart also bis zu 22,99 Euro!*
+
+Welche Spiele stehen zur Auswahl?
+
+Ihr habt die Wahl zwischen „Animal Crossing: New Horizons“, „New Super Mario Bros. U Deluxe“, „Mario Kart 8 Deluxe“, „Super Mario Odyssey“ und „Mario Party Superstars“.
+
+So sichert ihr euch das Switch-OLED-Bundle
+
+Ihr habt zwei Möglichkeiten, euch das Bundle zum reduzierten Preis zu sichern. Entweder legt ihr die Nintendo Switch OLED und das Spiel, für das ihr euch entscheidet, einfach separat in euren Warenkorb (der Abzug erscheint dann automatisch) oder ihr scrollt auf der Produktseite der Konsole runter zu „Empfohlene Kombinationen“ und wählt dort das passende Spiel aus.
+
+
+
+*Disclaimer: Wir suchen für euch nach Produkten und Dienstleistungen, von denen wir glauben, dass sie euch gefallen könnten. Die Auswahl erfolgt subjektiv, aber redaktionell unabhängig. Wir haben Affiliate-Partnerschaften, d.h. wenn ihr über einen mit Stern gekennzeichneten Link einen Kauf abschließt, erhalten wir eine geringe Provision. Zu unseren Partnern gehört auch das Preisvergleichsportal Idealo, das wie die Business Insider GmbH eine Tochtergesellschaft der Axel Springer SE ist. Unsere Empfehlungen und die Auswahl der Produkte werden dadurch nicht beeinflusst. Mehr dazu lest ihr hier: Insider Picks bei Business Insider – wer wir sind, was wir machen und wie wir Produkte testen. Die Inhalte sind unabhängig von unserer Werbevermarktung. Unsere Leitlinien der journalistischen Unabhängigkeit findet ihr hier: www.axelspringer.com/de/leitlinien-der-journalistischen-unabhaengigkeit
+
+
+
+
+---------NEW HOOKUP--------
+
+-> RANK: 11
+-> TITLE: Bitcoin und das Risiko der Quantencomputer
+-> DATE: 2021-12-30 05:00:49+00:00
+
+
+{
+    "author": "['James Butterfill']",
+    "body_score": 10,
+    "category": "German",
+    "description": "Quantencomputer sind viel leistungsf\u00e4higer als herk\u00f6mmliche Maschinen. Eine Analyse des Risikos f\u00fcr Bitcoin und die Blockchain-Technologie.",
+    "description_score": 0,
+    "rank": 11,
+    "score": 8.9,
+    "sentiment": {
+        "compound": -0.9997,
+        "neg": 0.145,
+        "neu": 0.821,
+        "pos": 0.034
+    },
+    "source": "https://cvj.ch",
+    "source_rank": 1262666,
+    "tickers": {
+        "Crypto": {
+            "BTC": 12
+        },
+        "Stocks": {
+            "AES": 1
+        }
+    },
+    "title_score": 0,
+    "url": "https://cvj.ch/fokus/hintergrund/bitcoin-und-das-risiko-der-quantencomputer/"
+}
+BODY:
+Jüngste Nachrichten haben gezeigt, dass China mit seinem kürzlich angekündigten 66-Qubit-Computer im Rennen um den leistungsfähigsten Quantencomputer die Nase vorn haben könnte. Dieser Computer kann angeblich 10 Millionen Mal schneller arbeiten als der schnellste digitale Rechner. Ein Risiko für Bitcoin?
+
+Es wird wahrscheinlich auch die bestehenden Ängste über die Sicherheit der Blockchain-Infrastruktur und die Aussicht auf „Quantenvorherrschaft“ verschärfen, bei der ein Quantengerät ein Problem lösen kann, das kein klassischer Computer in einer praktischen Zeitspanne lösen kann. Hier beschreiben wir kryptografische Methoden und ihre potenzielle Bedrohung für Bitcoin aus einer ausgewogenen Perspektive.
+
+Kryptografische Algorithmen sind schwer zu knacken (Verschlüsselung)
+
+Heutige kryptografische Algorithmen, wie sie für Online-Transaktionen verwendet werden, können im Wesentlichen durch wiederholtes Raten geknackt werden, aber ihre Sicherheit ergibt sich aus der äusserst unpraktischen Zeitspanne, die dafür benötigt wird. Die so genannte Brute-Force-Methode, bei der ein normaler Computer alle möglichen Schlüssel durchprobiert, bis der richtige gefunden ist, ist eine gewaltige Aufgabe. Bei der 128-Bit-Verschlüsselung gibt es zum Beispiel 340 Undezillionen (36 Nullen) Varianten.
+
+Zum Vergleich: Ein Computer, der 1 Billion Schlüssel pro Sekunde testen könnte, bräuchte 10.79 Quintillionen Jahre, das ist das 785 Millionenfache des derzeit angenommenen Alters des Universums. Die 128-Bit-Verschlüsselung war früher der Standard, aber während der WikiLeaks-Affäre im Jahr 2013 wurde deutlich, dass Geheimdienste angeblich in der Lage waren, Varianten dieser Codes zu knacken, wenn auch auf unorthodoxe Weise. Infolgedessen gab es eine Umstellung auf 256-Bit-Verschlüsselung.
+
+Andere unpraktische Alternativen
+
+Es gibt bekannte Alternativen zum Brute-Force-Angriff, die die allgemeine Computersicherheit betreffen. Bei der akustischen Kryptoanalyse wird ein Computerprozessor mit einem Mikrofon abgehört. Mit dieser Methode konnten Analysten sehr hohe Verschlüsselungsniveaus umgehen. Einige 256-Bit-Verschlüsselungsstandards wie AES können derzeit innerhalb von fünf Minuten mit einer Antenne geknackt werden, die die Leistungsabgabe des verschlüsselnden Computers misst.
+
+Diese Techniken sind jedoch nicht praktikabel, da sich die Messgeräte in unmittelbarer Nähe des Computers befinden müssen, der die Verschlüsselung vornimmt. Interessanterweise beinhalten die meisten aktuellen Hacking-Methoden das Abhören oder Abfangen der Signale, die während des Verschlüsselungsprozesses erzeugt werden. Aufgrund der verteilten Natur von Bitcoin können diese Methoden nicht angewendet werden.
+
+Quantencomputer werden alles verändern
+
+Die Unpraktikabilität von Cracking-Methoden ist der Grund, warum diese Formen des Hackings zum Glück nicht sehr verbreitet sind, aber das könnte sich in den kommenden 5-10 Jahren ändern. Quantencomputer unterscheiden sich von herkömmlichen Computern insofern, als die Verbesserungen nicht auf einer Erhöhung der Taktfrequenz beruhen, sondern auf einer astronomischen Verringerung der Anzahl der Schritte, die zur Durchführung bestimmter Berechnungen erforderlich sind. Sie nutzen im Wesentlichen die Eigenschaften der Quantenmechanik, um nach Mustern innerhalb einer grossen Zahl zu suchen, was einige der derzeitigen Verschlüsselungstechniken sehr angreifbar macht. Mit einem ausreichend leistungsfähigen Quantencomputer könnten die meisten Formen der Verschlüsselung mit öffentlichen Schlüsseln, die bei alltäglichen Transaktionen über elektronische Geräte verwendet werden, theoretisch innerhalb von Minuten von Quantencomputern geknackt werden, indem der Shor- oder Grover-Algorithmus verwendet wird.
+
+Nur Regierungsbehörden und Militärs, die häufig eine viel sicherere symmetrische Verschlüsselung verwenden, wären vor Quantencomputern geschützt, aber dies erfordert, dass die Schlüssel sicher an jede an der Kommunikation beteiligte Stelle geliefert werden, wobei die Kuriere verschlossene Aktentaschen mit sich führen, also keine praktische Lösung für die Sicherheit im Alltag.
+
+Es ist bekannt, dass Bitcoin SHA-256-Kryptografie für das Mining und die Verschleierung des öffentlichen Schlüssels im Transaktionsprozess verwendet und daher auch in einer Post-Quantenwelt sicher sein sollte. Ganz so einfach ist es jedoch nicht. Aufgrund der komplizierten Struktur von Bitcoin gibt es theoretisch mehrere Möglichkeiten, wie die Sicherheit gefährdet werden könnte.
+
+Die Elliptic Curve Sicherheitslücke
+
+Bitcoin-Transaktionen verwenden einen separaten 256-Bit Elliptic Curve Digital Signature Algorithm (ECDSA) zur Autorisierung von Überweisungen, eine Technik, die allgemein für einen Grossteil der Internetsicherheit verwendet wird. Während der in Bitcoin verwendete ECDSA 256-Bit ist, entspricht das Signaturschema 128-Bit, da ein Hacker nur einen privaten Schlüssel mit Mitteln auf der 256-Bit-Kurve ausnutzen müsste. Hierauf konzentrieren sich die meisten akademischen Forschungen zu diesem Thema.
+
+„Ein effektiver Quantenangriff würde darin bestehen, den privaten Schlüssel zu finden, wenn der öffentliche Schlüssel nach der Übertragung einer signierten Transaktion an das Netzwerk offengelegt wird. Dies würde es einem Angreifer ermöglichen, eine neue Transaktion mit dem privaten Schlüssel zu signieren und sich so als Eigentümer des Schlüssels auszugeben. Solange der Quanten-Angreifer sicherstellen kann, dass seine Transaktion vor der echten Transaktion auf der Blockchain platziert wird, kann er die Transaktion im Wesentlichen stehlen und den neu geschaffenen Unspent Transaction Output (UTXO) auf ein Konto seiner Wahl leiten.“ – Quantum attacks on Bitcoin, and how to protect against them
+
+Frühe Bitcoin-Nutzer wurden mit der P2PK (Pay-to-Public-Key)-Technologie bezahlt, bei der die Nutzer direkt an ihre öffentlichen Schlüssel bezahlt wurden, so dass die frühen öffentlichen Bitcoin-Schlüssel bekannt sind. Dies bedeutet, dass frühe und oft wohlhabende Bitcoin-Adressen anfälliger für diese Angriffsform sind. Spätere Adressen verwenden das P2PKH (Pay-to-Public-Key-Hash) Adressformat, bei dem die Adressen hinter zwei kryptographischen Hashes (SHA-256 und RIPEMD-160) versteckt werden, wenn neue UTXOs erstellt werden, was sie weniger anfällig für einen Angriff macht. Die grosse Mehrheit der UTXOs sind P2PKH. Interessanterweise wird das jüngste Bitcoin-Taproot-Upgrade öffentliche Schlüssel wieder öffentlich sichtbar machen, was darauf hindeutet, dass die Bitcoin-Entwickler nicht übermäßig besorgt über das Risiko von öffentlich bekannten öffentlichen Schlüsseln sind.
+
+Ein 51% Angriff
+
+Der Proof of Work (PoW) Bitcoin Mining Prozess nutzt den bereits erwähnten SHA-256 kryptographischen Hash-Algorithmus, von dem wir wissen, dass er in einer Post-Quanten-Welt unknackbar bleiben würde. Theoretisch ist jedoch ein 51% Angriff möglich, bei dem ein Akteur oder eine koordinierte Gruppe von Akteuren so viel Mining-Leistung erlangen könnte, dass sie einen Teil der Blockchain neu schreiben oder ihre eigenen Transaktionen rückgängig machen könnten, was zu einer möglichen Doppelausgabe führen würde.
+
+Es ist wahrscheinlich, dass Quantencomputer in der Zukunft so weit verbreitet sind, dass kein einzelner quantenfähiger Akteur das PoW-Mining dominieren könnte. Daher hat es wahrscheinlich grössere Auswirkungen auf die Miner als auf das Protokoll selbst, indem es einfach die Kosten pro Hash senkt und die Schwierigkeit des Minings erhöht. Ein langsamer Übergang zu einer besseren Technologie, sobald diese verfügbar ist, ist das wahrscheinlichste Ergebnis, so wie es heute üblich ist, wenn neue Hardware auf den Markt kommt.
+
+Der Energieverbrauch von Quantencomputern ist theoretisch weitaus geringer als bei herkömmlichen Computern, da sie bestimmte mathematische Probleme viel effizienter lösen können. Ein vom National Renewable Energy Laboratory verfasstes Papier legt nahe, dass sich der Energieverbrauch eines Quantencomputers stark von dem eines herkömmlichen Computersystems unterscheidet und eher von der für das Kühlsystem als von der für die elektronischen Schaltungen verwendeten Energie dominiert wird. Alan Ho von Google Quantum AI sagte, dass für die Stromversorgung und Kühlung eines ihrer Quantencomputer 25 kW benötigt werden.
+
+Es gibt andere Initiativen, bei denen eine derart aggressive Kühlung vielleicht nicht notwendig ist, aber ihre Fortschritte hinken den Mainstream-Supraleiter-Ansätzen hinterher. Während die Leistung für die Schaltkreise also wahrscheinlich geringer ist, treibt der extreme Kühlungsbedarf den Energiebedarf erheblich in die Höhe. Wir sind der Meinung, dass die Kombination aus Entwicklungskosten und der technischen Fähigkeit, ein Quantensystem zu betreiben, darauf hindeutet, dass es derzeit technisch und wirtschaftlich nicht rentabel ist, mit ASIC-Minern zu konkurrieren, und vielleicht auch nie sein wird.
+
+Wann werden Quantencomputer in der Lage sein, 128-Bit-Kryptografie zu knacken?
+
+Das grösste Hindernis auf dem Weg zu einer zuverlässigen Quantenvorherrschaft ist vielleicht die Quantendekohärenz. Weniger technisch ausgedrückt: Quantencomputer reagieren sehr empfindlich auf Umgebungsstörungen, und je grösser und leistungsfähiger die Systeme werden, desto schwieriger wird es, sie vor diesem Rauschen zu schützen. Die Dekohärenz führt zu Fehlern, bei denen Informationen verloren gehen, und obwohl die Zuverlässigkeit von Quantencomputern immer besser wird, folgt sie einem ziemlich linearen Trend. Im Wesentlichen sind die heutigen Quantencomputer zu rudimentär, um die 128-Bit-Kryptographie zu knacken, aber die fortschreitende Verbesserung der Systeme lässt vermuten, dass sie irgendwann in der Zukunft dazu in der Lage sein werden.
+
+Die Meinungen darüber, wann genau die 128-Bit-Kryptografie von Quantencomputern geknackt werden könnte, sind geteilt. Die Schätzungen reichen von den nächsten 5 bis 20 Jahren, der Konsens liegt jedoch bei 15 Jahren. Google erklärte kürzlich in einem Blog, dass sie innerhalb des nächsten Jahrzehnts einen 1-Millionen-Qubit-Computer entwickelt haben werden, obwohl es nicht ganz klar ist, ob dieser leistungsfähig oder stabil genug sein wird, um die Bitcoin-Wallet-Infrastruktur zu bedrohen. Laut Celia Merzbacher vom Quantum Economic Development Consortium werden Quantencomputer um das Jahr 2035 zuverlässig genug sein, um aktuelle Verschlüsselungsstandards zu knacken, was sich mit den Ansichten des National Institute of Standards and Technology (NIST) deckt. Andere Forscher wiederum bleiben skeptisch, was die Realisierbarkeit von Quantencomputern im grossen Massstab angeht.
+
+Bestehende Finanzinfrastruktur ist stärker gefährdet als Bitcoin
+
+Wenn sich Quantencomputer so entwickeln, wie manche erwarten, befinden wir uns in einem Wettlauf mit der Zeit, um Post-Quantum-Kryptografie einzusetzen, bevor Quantencomputer auf den Markt kommen. In diesem Sinne scheinen 15 Jahre genug Zeit für die Vorbereitung zu sein. Es wird jedoch geschätzt, dass es mindestens 10 Jahre dauern würde, die bestehende kryptografische Infrastruktur zu ändern. Dies bedeutet, dass alle bestehenden Systeme, die Kryptographie mit öffentlichen Schlüsseln verwenden, geändert werden müssen, was die meisten elektronischen Geräte mit Internetanschluss einschliesst.
+
+Es gibt bereits erste Initiativen des ETSI (Europäisches Institut für Telekommunikationsnormen), die versuchen, den Ansatz der Post-Quantum-Kryptografie zu standardisieren. Weitere Initiativen müssen entwickelt werden, um die bestehenden angeschlossenen Geräte zu modifizieren und die Architektur für neue quantensichere Geräte und Software zu entwickeln. Gegenwärtig stellen Quantencomputer eine wachsende Bedrohung für die Internetsicherheit dar, die für Unternehmen, die nicht sofort Massnahmen zur Risikominderung ergreifen, erhebliche wirtschaftliche Nachteile mit sich bringen könnte.
+
+Köpfe Margarethe Honisch zu Frauen in der Finanz- und Kryptowelt Hintergrund Jahresrückblick 2021 Invest Institutionelle Krypto-Adoption im Jahr 2021 Basiswissen Das Avalanche-Netzwerk
+
+Zusammenfassung
+
+Es ist klar, dass die Nutzung von Quantentechnologien zur Ausnutzung des Bitcoin-Protokolls theoretisch möglich ist. In der Praxis ist dies jedoch ausserordentlich schwierig und wäre selbst dann nicht trivial, wenn wirklich leistungsstarke Quantencomputer zur Verfügung stünden.
+
+Ähnliche Möglichkeiten gibt es auch für andere Wertaufbewahrungsmittel, und die vielleicht beste Analogie sind Goldtresore. Goldtresore sind in der Regel unglaublich sicher, mit sehr ausgeklügelten Sicherheitsvorkehrungen, aber es gibt theoretische Möglichkeiten, wie das Gold aus ihnen gestohlen werden kann. Diese Methoden würden erhebliche Ressourcen erfordern, vielleicht mit Hilfe eines staatlichen Akteurs, aber in der Realität ist es höchst unwahrscheinlich, dass dies geschieht. Bitcoin ist insofern ähnlich, als dass das System theoretisch anfällig für Angriffe ist, aber solange diese Theorien nicht Realität werden, bleibt das Netzwerk höchst sicher. Der Vorteil von Bitcoin gegenüber Gold in diesem Beispiel ist, dass es programmierbar ist und verändert werden kann, um zukünftige Sicherheitsbedrohungen zu vereiteln.
+
+Aufgrund des weit verbreiteten Einsatzes der 128-Bit-Kryptografie stellen Quantencomputer eine viel grössere Bedrohung für einen erheblichen Teil der bestehenden kryptografischen Infrastruktur dar, auf die sich der elektronische Handel und das Bankwesen bei ihren täglichen Transaktionen verlassen. In Anbetracht der weiten Verbreitung von Quantencomputern in systemrelevanten Organisationen könnte jede Schwachstelle, die durch Quantencomputer aufgedeckt wird, weitaus grössere Folgen für die etablierte Finanzinfrastruktur haben als für Bitcoin.
+
+
+---------NEW HOOKUP--------
+
+-> RANK: 12
+-> TITLE: Krypto-Regulierung in der Europäischen Union (EU)
+-> DATE: 2022-01-03 12:59:31+00:00
+
+
+{
+    "author": "['Cvj.Ch Content Partner Beincrypto']",
+    "body_score": 10,
+    "category": "German",
+    "description": "Die Europ\u00e4ische Union (EU) hat verschiedene Richtlinien f\u00fcr die Regulierung von Krypto-Assets vorgeschlagen. Ein umfassender \u00dcberblick.",
+    "description_score": 0,
+    "rank": 12,
+    "score": 8.2,
+    "sentiment": {
+        "compound": -0.9996,
+        "neg": 0.207,
+        "neu": 0.77,
+        "pos": 0.022
+    },
+    "source": "https://cvj.ch",
+    "source_rank": 1262666,
+    "tickers": {
+        "Crypto": {
+            "BTC": 1,
+            "ETH": 1
+        },
+        "Stocks": {}
+    },
+    "title_score": 0,
+    "url": "https://cvj.ch/fokus/legal-compliance/krypto-regulierung-in-der-europaeischen-union-eu/"
+}
+BODY:
+Wie ist der Stand der Krypto-Innovation und -Regulierung in der Europäischen Union (EU) und wie steuert die Region den aufstrebenden Sektor? Die Welt steht an der Schwelle zu einer neuen Ära der technologischen Interaktion, und die regulatorische Sicherheit ist eine der wichtigsten Voraussetzungen für ihre Adoption.
+
+Krypto- und Blockchain-basierte Entwicklungen tauchen nun in vielen Facetten der Realität auf, sowohl innerhalb als auch ausserhalb des traditionellen Krypto-Bereichs. Regierungen auf der ganzen Welt sind auf dem Weg zur Entwicklung eigener digitaler Währungen (CBDCs) und erwägen gleichzeitig neue Vorschriften. Internationale Unternehmen stellen die Integration neuer Krypto- und Blockchain-Protokolle für die breite Anwendung vor. In Europa haben die Mitgliedstaaten und die Union selbst ihre eigenen Ansätze im Raum. Von Regulierungen und Krypto-Trends bis hin zu Mining-Boom und Start-ups – der europäische dezentralisierte Raum ist einer, der beobachtet werden sollte.
+
+Die EU: Ein Marktüberblick
+
+Einem Bericht von Chainalysis vom September zufolge ist Europa der grösste Kryptomarkt der Welt, was die Transaktionsaktivität angeht. Der Bericht konzentriert sich auf die Regionen Zentral-, Nord- und Westeuropa (CNWE). In diese Region sind im letzten Jahr Kryptowährungen im Wert von mehr als 1 Billion US-Dollar geflossen, was dazu führte, dass sie von ihrem vorherigen zweiten Platz aufstieg. Darüber hinaus gingen die kryptobezogenen Aktivitäten in Asien zurück. Das Verbot von Kryptowährungen und Mining in China machte Platz für andere Standorte, die in der Rangliste nach oben rückten.
+
+Ausserdem wurde eine grosse Anzahl von Kryptotransaktionen auf dem gesamten Kontinent über DeFi-Protokolle abgewickelt. Die DeFi-Aktivitäten in der Union nehmen weiter zu, vor allem, weil Länder wie die USA ihre Vorschriften verschärfen. Mit dem Wachstum und der Reife des Marktes kommt jedoch auch das wachsame Auge der Regulierungsbehörden. In Europa haben diejenigen, die auf dem Kryptomarkt Geschäfte machen wollen, mit zwei Ebenen der Bürokratie zu kämpfen. Die erste ist die Krypto-Gesetzgebung, die von der Europäischen Union als juristische Instanz erlassen wurde. Die zweite kommt von den nationalen Regelungen der europäischen Mitgliedsstaaten.
+
+Krypto-Gesetzgebung in der EU
+
+Da die EU ein abgestuftes System von Rechtsvorschriften hat, kann die Rechtslage unklar sein. Florian Glatz, ein Blockchain-Anwalt und Mitbegründer der EU-Krypto-Initiative, klärte die Situation in der EU. Seine Initiative ist auf Krypto- und DeFi-Aufklärung für Gesetzgeber in der Union spezialisiert.
+
+“Wenn es um die Regulierung der Finanzmärkte geht, was im Moment der Hauptbereich der Interaktion zwischen Krypto und Regulierung ist, ist dies hauptsächlich ein EU-Thema. Es ist ein EU-Thema, weil die Union diesen Markt bereits durch die MiFID II-Verordnung harmonisiert hat, die im Wesentlichen das europäische Wertpapierrecht darstellt..” – Florian Glatz, Mitbegründer der EU-Krypto-Initiative
+
+Die vorläufigen Massnahmen der Union im Bereich der Kryptowährungen sind daher richtungsweisend für alle 27 Länder, die ihrer wirtschaftlichen und politischen Zuständigkeit unterliegen. Die Mitgliedstaaten können ohne die Einbindung der endgültigen EU-Rechtsvorschriften allein nicht viel tun. Die für die Interaktionen auf dem EU-Kryptomarkt wichtigste Verordnung ist die baldige Verordnung über Märkte für Krypto-Assets (MiCA). Laut Glatz ist diese MiCA-Verordnung Teil eines kompletten Finanzpakets. Es enthält fünf oder sechs verschiedene Verordnungen und Richtlinien, und MiCA war eine davon.
+
+Märkte für Krypto-Assets (MiCA)
+
+Nach Angaben der EU zielt MiCA darauf ab, den europäischen Rahmen für die Emission und den Handel mit verschiedenen Arten von Krypto-Token als Teil der europäischen Strategie für das digitale Finanzwesen zu harmonisieren. Diese neue Gesetzgebung umfasst Kryptowährungen wie Bitcoin und Ethereum sowie Stablecoins, die unter den globalen Regulierungsbehörden ein heisses Thema sind. Sie umfasst auch CBDCs oder Sicherheits-Token, die als Finanzinstrumente eingestuft werden können.
+
+“Problematisch wird es, wenn diese Regulierung versehentlich Dinge berührt, die sie eigentlich nicht regeln wollte. Vor allem, wenn sie keine Vorstellung davon hat, wie sie angemessen zu regulieren ist. Dies ist besonders dringlich, wenn es um dezentralisierte Anwendungsfälle geht, da dezentralisierte Anwendungsfälle offensichtlich nicht diese typische, auf Intermediären basierende Struktur haben. Es gibt auch ein breites Spektrum an Möglichkeiten, wie dezentral etwas letztendlich wirklich ist. Diese MiCA-Verordnung hat keinerlei Konzept, um diese Fragen zu klären.“ – Florian Glatz
+
+Die MiCA schlägt einen übergreifenden Rechtsrahmen für Vermögenswerte, Märkte und Dienstleistungsanbieter vor. All dies ist derzeit auf EU-Ebene nicht geregelt. Um noch einmal darauf zurückzukommen, wie kompliziert die Umsetzung auf EU-Ebene ist: Die Verordnung wird nach ihrer EU-weiten Adoption für alle Mitgliedstaaten gelten. Die Umsetzung in nationales Recht wird jedoch nicht erforderlich sein.
+
+Eine dezentralisierte Zukunft
+
+Angesichts der Position Europas als wachsende DeFi-Zentrale sind diese ersten Momente der Regulierung oder deren Fehlen entscheidend für künftige Innovationen. Da die vorgeschlagene MiCA-Gesetzgebung der DeFi-Branche nicht gerecht wird, besteht eine Option darin, sie vorerst nicht einzubeziehen. Das kurzfristige Ziel oder die anfängliche Notwendigkeit der EU-Krypto-Initiative bestand darin, dezentralisierte Anwendungsfälle einfach von dieser Verordnung auszunehmen.
+
+In Zukunft soll DeFi jedoch nicht ausgeschlossen werden, sondern es soll ein rechtlicher Raum für die Entwicklung von DeFi geschaffen werden. Die Idee wäre, Projekten in Europa, die etwas dezentraler arbeiten wollen, einen Ort zu geben, an dem sie sicher experimentieren können, ohne sich allzu grosse Sorgen machen zu müssen, etwas Illegales zu tun.
+
+Die EU war offen für diese Idee des Experimentierens, aber nur für regulierte Akteure. Was die EU-Krypto-Initiative fordert, ist eine Chance für die unregulierten Akteure, die ihrer Meinung nach die eigentliche Triebkraft der Innovation sind. Sogar als strategischer Schritt in Europa empfehlen sie, die Projekte wachsen zu lassen und dann die Regulierung so zu gestalten, dass die Ziele der Regulierungsbehörde erreicht werden, während diese Projekte bestehen bleiben.
+
+
+---------NEW HOOKUP--------
+
+-> RANK: 13
+-> TITLE: ThinkPad Z: Neue Business-Notebooks mit nachhaltigen Materialien
+-> DATE: 1913-01-01 00:00:00
+
+
+{
+    "author": "['Florian M\u00fcssig', 'Heise Online']",
+    "body_score": 0,
+    "category": "German",
+    "description": "Lenovos Notebooks der neuen ThinkPad-Z-Serie verwenden Recycling-Materialien und werden ausschlie\u00dflich mit Ryzen-Prozessoren best\u00fcckt.",
+    "description_score": 0,
+    "rank": 13,
+    "score": 0.0,
+    "sentiment": {
+        "compound": 0.9862,
+        "neg": 0.105,
+        "neu": 0.745,
+        "pos": 0.151
+    },
+    "source": "https://www.heise.de",
+    "source_rank": 3267,
+    "tickers": {
+        "Crypto": {},
+        "Stocks": {}
+    },
+    "title_score": 0,
+    "url": "https://www.heise.de/news/ThinkPad-Z-Neue-Business-Notebooks-mit-nachhaltigen-Materialien-6316541.html"
+}
+BODY:
+Zur CES startet Lenovo mit einer neuen Business-Notebook-Serie: ThinkPad Z. Die Geräte weichen mit grauen Metallgehäusen samt bronzefarbenen Flanken und abgerundeten Ecken deutlich vom bekannten schwarzen, eckigen Look ab. Lenovo setzt dabei auf nachhaltige Materialien: Das Aluminium des Gehäuses ist zum Großteil recycelt. Gleiches gilt für das Ausgangsmaterial für das vegane Leder, das manche Ausstattungsvarianten ziert. Das Netzteil verwendet laut Lenovo zu 90 Prozent Recyclingmaterial; die kompostierbare Verpackung besteht aus Bambus und Zuckerrohr.
+
+Die ThinkPad-Z-Notebook haben eine nachhaltige Verpackung. Die Webcam wurde von den Designern prominent in Szene gesetzt. (Bild: Lenovo)
+
+Ryzen-Pro-Prozessoren
+
+Auch im Inneren trifft man Besonderheiten an: Die ThinkPad-Z-Notebooks verwenden ausschließlich Ryzen-Pro-Prozessoren der 6000er-Generation. Im ThinkPad Z16 arbeiten solche der H-Abwärmeklasse, im ThinkPad Z13 U-Modelle. Im Z13 soll es optional ein Lenovo-exklusives Ryzen-Pro-Prozessormodell geben – das erinnert stark an die Ryzen-CPUs der Surface-Edition, die Microsoft verwendet. Alle neuen Ryzen-Pro-Prozessoren enthalten den TPM-Nachfolger Pluton: Der eigenständige Sicherheitschip wurde unter Microsofts Federführung entwickelt und wird künftig auch in SoCs von Intel und Qualcomm zum Einsatz kommen.
+
+Im Z13 kümmert sich ausschließlich die integrierte GPU um die Grafikausgabe, das Z16 gibt es optional mit zusätzlichen Radeon-Grafikchips. Beide Notebooks haben 16:10-Bildschirme und können optional mit OLED-Touchscreen bestückt werden. Das ThinkPad Z13 hat zwei USB-C-Anschlüsse und einen analogen Audioausgang, das ThinkPad Z16 bietet außer einer dritten USB-C-Buchse auch noch einen SD-Kartenleser.
+
+Die ausschließlich AMD-befeuerten ThinkPad-Z-Notebooks haben 16:10-Bildschirme. (Bild: Lenovo)
+
+Beide neuen ThinkPads sollen ab Juni verfügbar sein. Das rund 1,3 Kilogramm schwere ThinkPad Z13 kostet ab 1650 Euro, das knapp 2 Kilogramm schwere ThinkPad Z16 ab 2250 Euro. Beide soll es mit bis zu 32 GByte aufgelötetem LPDDR5-Arbeitsspeicher und PCIe-4.0-SSDs bis 1 TByte (Z13) beziehungsweise 2 TByte (Z16) geben.
+
+(mue)
+
+
+---------NEW HOOKUP--------
+
+-> RANK: 13
+-> TITLE: Diese schweren Nebenwirkungen können nach Corona-Impfung auftreten
+-> DATE: 2022-01-04 14:11:05+00:00
+
+
+{
+    "author": "['Klemens Handke']",
+    "body_score": 0,
+    "category": "German",
+    "description": "Die sechs schwerwiegendsten Komplikationen traten laut Paul-Ehrlich-Institut allerdings nur in sehr seltenen F\u00e4llen auf.",
+    "description_score": 0,
+    "rank": 13,
+    "score": 0.0,
+    "sentiment": {
+        "compound": -0.9975,
+        "neg": 0.095,
+        "neu": 0.905,
+        "pos": 0.0
+    },
+    "source": "https://www.businessinsider.de",
+    "source_rank": 41043,
+    "tickers": {
+        "Crypto": {},
+        "Stocks": {
+            "GBS": 1,
+            "ITP": 1,
+            "PEI": 7
+        }
+    },
+    "title_score": 0,
+    "url": "https://www.businessinsider.de/wissenschaft/gesundheit/diese-6-nebenwirkungen-koennen-corona-impfungen-haben-und-so-oft-sind-sie-dem-paul-ehrlich-institut-zufolge-aufgetreten/"
+}
+BODY:
+Nach dem Impfen können in seltenen Fällen schwere Nebenwirkungen auftreten. Visoot Uthairam via Getty Images
+
+Das Paul-Ehrlich-Institut (PEI) hat einen neuen Sicherheitsbericht veröffentlicht. Dieser zeigt, welche schwerwiegenden Nebenwirkungen nach einer Corona-Impfung auftreten können und wie häufig diese gemeldet wurden. Die Melderate für schwerwiegende Reaktionen betrug dem PEI zufolge bei allen Impfstoffen zusammen 0,2 Meldungen pro 1000 verabreichter Impfdosen. Zu den sechs schweren Komplikationen, die jedoch nur in sehr seltenen Fällen auftreten, gehören unter anderem Herzmuskelentzündungen.
+
+Ein neuer Sicherheitsbericht des Paul-Ehrlich-Instituts (PEI) zeigt, welche schwerwiegenden Nebenwirkungen nach einer Corona-Impfung auftreten können und wie häufig die verschiedenen Nebenwirkungen bisher gemeldet wurden. Berücksichtigt wurden dabei die gemeldeten Verdachtsfälle in Deutschland seit Beginn der Impfkampagne am 27. Dezember 2020 bis zum 30. November 2021. Das PEI beobachtete alle Komplikationen im Zusammenhang mit den hierzulande zugelassenen mRNA-Vakzinen – also denen von Biontech/Pfizer und Moderna – sowie den Vektorimpfstoffen von AstraZeneca und Johnson & Johnson.
+
+Von den 96,6 Millionen durchgeführten Impfungen mit dem Impfstoff von Biontech/Pfizer wurden demnach 113.700 Verdachtsfälle gemeldet. Bei Moderna gab es bei insgesamt 10,5 Millionen verabreichten Impfungen 28.200 gemeldete Impfkomplikationen. Die Gesamtzahl der AstraZeneca-Impfungen liegt bei 12,7 Millionen, dabei wurden 46.400 Meldungen über Nebenwirkungen gemacht. Und Johnson & Johnson verimpfte 3,4 Millionen Dosen, in 7700 Fällen traten Nebenwirkungen auf. Für alle Impfstoffe zusammen liegt die sogenannte Melderate dem PEI zufolge bei 0,2 Meldungen pro 1000 verabreichter Impfdosen.
+
+Doch welche wirklich schwerwiegenden Nebenwirkungen sind es, die in den sehr seltenen Fällen auftraten? Wir haben die sechs wichtigsten im Folgenden für euch aufgeschlüsselt.
+
+1. Myokarditis und Perikarditis
+
+Gemeint ist hiermit eine Herzmuskel- oder Herzbeutelentzündung. Ein erhöhtes Risiko besitzen demnach vor allem junge Männer nach ihrer zweiten mRNA-Impfung. Erste Beschwerden treten wenige Tage nach der verabreichten Dosis auf. Die Daten zeigen jedoch, dass die Mehrheit der Patienten gut auf eine Behandlung anspricht und schnell wieder genest.
+
+In Einzelfällen kann es allerdings auch zu schwereren Verläufen kommen. Studien zeigen, dass das Risiko einer Erkrankung für junge Menschen beim Vakzin von Moderna weiterhin sehr selten ist – jedoch möglicherweise höher als bei Biontech. Deswegen empfiehlt die Ständige Impfkommission (Stiko) für die Altersgruppe unter 30 Jahren das Corona-Vakzin von Biontech und Pfizer.
+
+2. Anaphylaxie
+
+Eine Anaphylaxie ist eine allergische Reaktion, die lebensbedrohlich sein kann. Sehr selten trat diese Komplikation bei allen vier hierzulande zugelassenen Impfstoffen auf. Die Melderate beträgt weniger als einen Fall pro 100.000 Impfungen. Das Risiko einer Erkrankung ist für Frauen höher als für Männer. Nach der ersten Impfung ist es ebenfalls größer.
+
+3. Thrombose-mit-Thrombozytopenie-Syndrom (TTS)
+
+TTS ist ein neues Syndrom, „das durch venöse und/oder arterielle Thrombosen in Kombination mit einer Thrombozytopenie charakterisiert ist“, wie das PEI in seinem Bericht schreibt. Das Syndrom trat in sehr seltenen Fällen nach Impfungen mit den Vektorimpfstoffen Johnson & Johnson und AstraZeneca auf. Wichtig sei eine frühzeitige Diagnose und Behandlung, heißt es im PEI-Bericht. Bei AstraZeneca trat das neuartige Syndrom häufiger nach der ersten als nach der zweiten Impfdosis auf.
+
+4. Guillain-Barré-Syndrom (GBS)
+
+Ein schweres neurologisches Krankheitsbild, das sich durch eine extrem starke Autoimmunreaktion auszeichnet und das Nervensystem angreift. Das GBS trat in sehr seltenen Fällen nach einer Impfung mit den Vektorimpfstoffen von AstraZeneca und Johnson & Johnson auf. Die Melderate betrug hier zwischen 0,88 und 1,89 Meldungen pro 100.000 verabreichter Impfungen.
+
+5. Thrombozytopenie und Immunthrombozytopenie (ITP)
+
+Eine Erkrankung, „bei der das Immunsystem fälschlicherweise Blutzellen, sogenannte Blutplättchen, angreift, die für eine normale Blutgerinnung benötigt werden“, schreibt das PEI. Eine niedrige Anzahl an Blutplättchen führt zu Blutungen mit schweren gesundheitlichen Folgen. Meldungen und verfügbare Daten weisen daraufhin, dass sie mit den Vektorimpfungen zusammenhängen könnten. Meistens treten erste Symptome vier Wochen nach der Impfung auf. Personen, die bereits in der Vergangenheit eine ITP hatten, sollten vor und nach der Impfung ihre Blutplättchenanzahl überwachen lassen.
+
+6. Thrombose
+
+Das Thromboserisiko nach einer Corona-Impfung wurde in mehreren Studien untersucht. Eine einheitliche wissenschaftliche Erkenntnis zum tatsächlichen Risiko gibt es allerdings nicht. Klar ist jedoch, dass das Risiko nach einer Corona-Infektion höher ist als nach einer Impfung – das geringe Risiko ist also kein Grund, sich nicht impfen zu lassen. Auch die Europäische Arzneimittelbehörde (EMA) weist auf seltene Fälle venöser Thromboembolien nach einer Impfung mit dem Vakzin von Johnson & Johnson hin. Bei dem Impfstoff von AstraZeneca wurden hingegen Fälle von Sinusvenen-Thrombosen gemeldet. Inwiefern die Meldungen dieser Thrombosen wirklich mit den Impfungen zusammenhängen, ist allerdings nicht in allen Fällen abschließend geklärt.
+
+
+---------NEW HOOKUP--------
+
+-> RANK: 13
+-> TITLE: Mercedes EQXX: Das reichweitenstärkste E-Auto kommt aus Deutschland
+-> DATE: 2022-01-04 05:23:00+00:00
+
+
+{
+    "author": "['Elias Holdenried']",
+    "body_score": 0,
+    "category": "German",
+    "description": "In Las Vegas stellt Mercedes seine Studie, den EQXX, vor. Es soll mit nur einer Batterieladung 1000 Kilometer weit kommen.",
+    "description_score": 0,
+    "rank": 13,
+    "score": 0.0,
+    "sentiment": {
+        "compound": -0.9989,
+        "neg": 0.115,
+        "neu": 0.881,
+        "pos": 0.005
+    },
+    "source": "https://www.businessinsider.de",
+    "source_rank": 41043,
+    "tickers": {
+        "Crypto": {},
+        "Stocks": {
+            "EQS": 4
+        }
+    },
+    "title_score": 0,
+    "url": "https://www.businessinsider.de/wirtschaft/mobility/mercedes-knackt-mit-dem-elektrischen-aerodynamik-weltmeister-eqxx-die-1-000-kilometer-marke-und-stoesst-reichweiten-koenig-lucid-vom-thron-a/"
+}
+BODY:
+Am Heck gibt es eine Abrisskante, an der sich ein Leuchtband entlangzieht, sowie einen markanten Diffusor. Daimler AG
+
+Mercedes stellt in Las Vegas den EQXX vor – eine Studie, die in nur 18 Monaten entwickelt wurde. Das Auto soll mit nur einer einzigen Batterieladung rund 1000 Kilometer weit kommen und somit das reichweitenstärkste E-Auto der Welt sein. Die Dream-Edition des Lucid Air ist mit ihren 837 Kilometern derzeit offiziell das reichweitenstärkste EV der Welt. Davor hatte Mercedes diesen Titel für einige Monate inne, mit dem EQS und seinen 773 Kilometern.
+
+Jahrzehntelang versuchten sich die Autobauer mit immer höher werdenden PS-Zahlen gegenseitig zu übertrumpfen. Auch Mercedes spielte mit seinen AMG-Modellen in dieser Disziplin oftmals ganz vorne mit. Doch im Elektro-Zeitalter liegt der Fokus auf anderen Werten. Elektroantriebe sind den Verbrennungsmotoren zwar auch in Sachen Leistungsfähigkeit und bei den Beschleunigungswerten überlegen, angesichts des Klimawandels nimmt die Effizienz aber den mit Abstand höchsten Stellenwert ein.
+
+Auch Daimler setzt bei seiner Zukunftsstrategie konsequent auf die von Tesla populär gemachte Antriebsart und möchte ab 2030 in jedem Segment ein reines E-Auto anbieten.
+
+In 18 Monaten wurde die Studie entwickelt
+
+Im Rahmen der Consumer Electrics Show (CES) in Las Vegas haben die Schwaben jetzt ihre neueste Studie EQXX enthüllt, die laut Aussage des Unternehmens der effizienteste Mercedes aller Zeiten sein soll und vor allem mit ihrem Radius und der Aerodynamik neue Maßstäbe setzt. Das in nur 18 Monaten entwickelte Fahrzeug soll zeigen, was technisch machbar ist und mit einer Batterieladung ganze 1000 Kilometer weit kommen.
+
+Um diese magische Reichweiten-Marke zu knacken, hat Mercedes der Limousine aber nicht nur einfach ein riesiges Batteriepaket verpasst. Dies hätte das Auto nur unnötig schwer gemacht, für eine schlechtere Effizienz gesorgt und zu einem deutlich höheren Ressourcenverbrauch bei der Produktion geführt. Stattdessen hat der Autobauer an allen Stellen Feinschliff betrieben und das Auto konsequent auf Leichtbau sowie einen niedrigen Luftwiderstandsbeiwert getrimmt.
+
+Die Stirnfläche des ausgewachsenen Vision EQXX ist laut Daimler kleiner als bei einem Smart geraten. Daimler AG
+
+Vor allem letzterer ist bei E-Autos der Schlüssel zu einer hohen Langstreckentauglichkeit. Bei einer normalen Reisegeschwindigkeit geht laut Daimler nämlich rund 60 Prozent des Stroms nur für die Überwindung des Luftwiderstands drauf. Das Endergebnis der Zusammenarbeit zwischen den Aerodynamikern und den Designern ist ein rekordverdächtiger CW-Wert von 0,17, der neben der strömungsgünstigen Grundform unter anderem auch mithilfe von aktiven Aerodynamik-Elementen erreicht wurde.
+
+Ein Leichtgewicht mit großer Reichweite
+
+Die Schwaben haben mit dem elektrischen S-Klasse-Pendant EQS das aerodynamisch effizienteste Serienauto der Welt im Angebot. Auf dem Datenblatt der Oberklasse-Limousine steht ein CW-Wert von 0,20. Bei dem Technologieträger EQXX haben sie sich aber nochmal deutlich gesteigert. Ähnlich sieht es in Sachen Gewicht aus. Für ein Elektroauto ist die Studie mit ihren 1750 Kilo vergleichsweise schlank geraten. Zum Vergleich: Die ebenfalls batterieelektrisch angetriebene Serien-Limo EQE bringt 2,1 Tonnen auf die Waage.
+
+Bei der Gewichtsreduktion zahlen sich sowohl die neuen Fahrwerksfedern aus glasfaserverstärktem Kunststoff, als auch die Bremsscheiben aus Aluminium und der Einsatz weiterer Elemente aus Leichtmetall aus. Den großen Unterschied macht aber definitiv die Batterie. An der Entwicklung des fortschrittlichen Stromspeichers waren auch Daimlers hauseigene Formel-1- und Formel-E-Abteilungen beteiligt, was in einer besonders kompakten Bauform und einem niedrigen Gewicht resultiert.
+
+Die Lithium-Ionen-Batterie des EQXX wiegt insgesamt „nur“ 495 Kilo, hat aber trotzdem einen hohen Energiegehalt von rund 100 Kilowattstunden. Der ebenfalls hochmoderne Akku des EQS ist nach Aussage des Unternehmens doppelt so groß und rund 30 Prozent schwerer. Da das Ingenieursteam die Verluste im Antriebsstrang konsequent reduziert hat, erreicht die Studie eine sensationelle Energieeffizienz von 95 Prozent.
+
+Beim Weg aus der Batterie an die speziellen in Kooperation mit Bridgestone entwickelten Antriebsräder geht also kaum etwas von dem Strom verloren. Aber auch die Stromverbraucher im Innenraum, wie beispielsweise das riesige Digitaldisplay und die Musikanlage, wurden durch Feinarbeit in Sachen Effizienz optimiert.
+
+Im volldigitalen Interieur der Studie verbaut Mercedes Materialien aus nachwachsenden und recycelten Rohstoffen.
+
+Auf 100 Kilometern verbraucht der EQXX weniger als 10 Kilowattstunden Strom, was bei einem nutzbaren Energiegehalt von 100 Kilowattstunden eine Gesamtreichweite von 1000 Kilometern bedeutet. Damit stößt das E-Auto in Reichweiten-Regionen vor, die selbst von den sparsamsten Dieseln nur schwer erreichbar sind. Auf lange Sicht dürfte also auch Fernreisen mit dem Stromer nichts im Wege stehen.
+
+Der EQXX wird es zwar nicht eins zu eins in die Serie schaffen, die aktuellen und zukünftigen Elektromodelle von Mercedes sollen aber seine Technologien und vereinzelte Design-Elemente übernehmen. Das Concept Car soll öffentlichkeitswirksam beweisen, dass Mercedes sich auch in Sachen E-Mobilität voll auf Höhe der Zeit befindet und sich nicht vor Tesla, Lucid und den chinesischen Newcomern verstecken muss.
+
+Ein Lucid-Gegner in Sachen Radius
+
+Aktuell gibt es noch kein Serienauto, dass mit einer Batterieladung 1000 Kilometer weit kommt. Die Dream-Edition des Lucid Air ist mit ihren 837 Kilometern derzeit offiziell das reichweitenstärkste EV der Welt. Davor hatte Mercedes diesen Titel für einige Monate inne, bis der EQS mit seinen 773 Kilometern von der Limousine des US-Startups auf den zweiten Platz verweisen wurde.
+
+Nio hat für den ET7 eine Feststoffbatterie angekündigt, welche die große Limousine ab Ende 2022 über 1000 Kilometer weit bringen soll. Ob der chinesische Autobauer dieses Versprechen tatsächlich halten kann, wird sich zeigen. Mercedes neuester Technologieträger ist der Beweis dafür, dass sich die deutsche Autoindustrie nicht verstecken und eine hohe Effizienz, sowie ein ansprechendes Design sich nicht gegenseitig ausschließen müssen.
+
+
+---------NEW HOOKUP--------
+
+-> RANK: 13
+-> TITLE: Crypto-News: Reisevideo zeigt den Alltag mit Bitcoin als Währung in El Salvador
+-> DATE: 1913-01-01 00:00:00
+
+
+{
+    "author": "[]",
+    "body_score": 0,
+    "category": "German",
+    "description": "Bitcoin als W\u00e4hrung? Wie gut oder schlecht funktioniert das nun wirklich in El Salvador, wo der Crypto-Coin ja als anerkannte W\u00e4hrung auf Augenh\u00f6he mit dem US-Dollar konkurriert. Was denkt die Bev\u00f6lkerung und wo liegen die Probleme? Ein Video zeigt Hintergr\u00fcnde zum gro\u00dfen Krypto-Experiment.",
+    "description_score": 0,
+    "rank": 13,
+    "score": 0.0,
+    "sentiment": {
+        "compound": -0.9863,
+        "neg": 0.106,
+        "neu": 0.844,
+        "pos": 0.05
+    },
+    "source": "https://www.notebookcheck.com",
+    "source_rank": 30833,
+    "tickers": {
+        "Crypto": {
+            "BTC": 8
+        },
+        "Stocks": {}
+    },
+    "title_score": 0,
+    "url": "https://www.notebookcheck.com/Crypto-News-Reisevideo-zeigt-den-Alltag-mit-Bitcoin-als-Waehrung-in-El-Salvador.589254.0.html"
+}
+BODY:
+Bitcoin als Währung? Wie gut oder schlecht funktioniert das nun wirklich in El Salvador, wo der Crypto-Coin ja als anerkannte Währung auf Augenhöhe mit dem US-Dollar konkurriert. Was denkt die Bevölkerung und wo liegen die Probleme? Ein Video zeigt Hintergründe zum großen Krypto-Experiment.
+
+Jobs
+
+Wir erweitern unser Test-Team und suchen Notebook- und Smartphone-Enthusiasten für unsere Redaktion. Wir erweitern unser Test-Team und suchen Notebook- und Smartphone-Enthusiasten für unsere Redaktion. Details
+
+Seit September 2021 ist Bitcoin in El Salvador offiziell "legal tender", also eine dem US-Dollar gleichgestellte Währung, was dem Schwellenland eine gehörige Portion Aufmerksamkeit aus der Crypto-Community und vielleicht die eine oder andere Investition gebracht hat, auch anderen lateinamerikanische Ländern wie Paraguay werden ähnliche Pläne nachgesagt. Nayib Bukele, der Präsident El Salvadors hat aber noch viel ambitioniertere Krypto-Pläne und will mittels Bitcoin-Bonds und finanzkräftiger Unterstützung eine ganze Bitcoin City am Fuße des Vulkans Conchagua aus dem Boden stampfen inklusive grüner Thermoenergiekraftwerke, die auch gleich fürs Bitcoin-Mining genutzt werden sollen.
+
+Dass man in der Hauptstadt San Salvador mittlerweile bei McDonalds mit Bitcoin bezahlen kann, war bereits vor einigen Wochen Thema, der vom Finanzportal Finanzfluss veröffentlichte Reisebericht (siehe unten) geht nun aber ein wenig in die Tiefe und spricht auch potentielle Probleme des Entwicklungslandes mit der digitalen Währung an, etwa die mangelnde Finanzbildung der meisten Bewohner, insbesondere älterer und ärmerer Bevölkerungsschichten, die dazu führt, dass von der Crypto-Revolution bis dato noch nicht alle profitieren können, nur die Jungen dürften hier bereits ihre große Chance erkannt haben. Auch wenn offiziell Bezahlen mit Bitcoin fast überall möglich sein sollte, klappt das wohl nicht immer problemlos, teils weil die lokale Bevölkerung auch einfach nicht gut genug geschult ist.
+
+So scheinen sich viele SalvadorianerInnen in der staatlichen Chivo Wallet lieber noch in US-Dollar bezahlen zu lassen, um den potentiellen Kursschwankungen des Krypto-Coins zu entkommen. Man muss also keine Bitcoins annehmen, wenn man nicht will und viele dürften hier aktuell noch zum vermeintlich sichereren US-Dollar greifen beziehungsweise gar nicht wissen, was man abseits der Chivo-Wallet noch für Optionen hat. Gleichzeitig zeigt das Video aber auch, dass insbesondere jene, die von ihren Verwandten in den USA Geld bekommen, doch stark von Bitcoin profitieren. Ein spannender Reisebericht, der beide Seiten der Medaille beleuchtet und vielleicht auch sanfte Kritik übt, denn viele Bevölkerungsschichten haben aktuell wohl ganz andere Sorgen als Bitcoin.
+
+
+
+
+
+
+---------NEW HOOKUP--------
+
+-> RANK: 13
+-> TITLE: Crypto News: Bitcoin verliert im Kampf um die 50.000 Dollar-Marke weiter an Boden, Prognose-Modell sieht trotzdem rosige Zukunft
+-> DATE: 1913-01-01 00:00:00
+
+
+{
+    "author": "[]",
+    "body_score": 0,
+    "category": "German",
+    "description": "Trotz der seit rund einem Monat anhaltenden Schw\u00e4chephase ist der Sch\u00f6pfer eines bekannten Prognose-Modells weiterhin zuversichtlich, dass der Bitcoin-Kurs bis Mitte 2025 die 1 Million Dollar-Marke knacken k\u00f6nnte.",
+    "description_score": 0,
+    "rank": 13,
+    "score": 0.0,
+    "sentiment": {
+        "compound": 0.4019,
+        "neg": 0.067,
+        "neu": 0.852,
+        "pos": 0.081
+    },
+    "source": "https://www.notebookcheck.com",
+    "source_rank": 30833,
+    "tickers": {
+        "Crypto": {
+            "BTC": 7
+        },
+        "Stocks": {}
+    },
+    "title_score": 0,
+    "url": "https://www.notebookcheck.com/Crypto-News-Bitcoin-verliert-im-Kampf-um-die-50-000-Dollar-Marke-weiter-an-Boden-Prognose-Modell-sieht-trotzdem-rosige-Zukunft.589055.0.html"
+}
+BODY:
+Trotz der seit rund einem Monat anhaltenden Schwächephase ist der Schöpfer eines bekannten Prognose-Modells weiterhin zuversichtlich, dass der Bitcoin-Kurs bis Mitte 2025 die 1 Million Dollar-Marke knacken könnte.
+
+Jobs
+
+Wir erweitern unser Test-Team und suchen Notebook- und Smartphone-Enthusiasten für unsere Redaktion. Wir erweitern unser Test-Team und suchen Notebook- und Smartphone-Enthusiasten für unsere Redaktion. Details
+
+Der Bitcoin hat nach seinen starken Weihnachtsfeiertagen, die die wertvollste Kryptowährung der Welt größtenteils über der psychologisch wichtigen 50.000 US-Dollar Marke verbracht hat, wieder deutliche Verluste eingefahren, welche sich wie üblich im gesamten Crypto-Markt widergespiegelt haben. Nach einem Verlust von rund 7 Prozent in den vergangenen zwei Tagen ist ein Bitcoin aktuell weniger als 48.000 Dollar wert, was rund 30 Prozent unter dem Allzeit-Hoch vom 10. November 2021 liegt.
+
+Ein überaus bekannter Crypto-Analytiker, der mit seinem interessanten Prognose-Modell auf Twitter bereits 1,7 Millionen Follower begeistert, sieht aber nach wie vor eine sehr rosige Zukunft für den Bitcoin (Hardware Wallet ab 59 Euro bei Amazon). Das besagte "Stock-to-Flow" Analyse-Modell dreht sich vereinfach gesagt um die Gewissheit, dass nie mehr als 21 Millionen Bitcoins existieren werden, was zwangsläufig zu steigenden Kursen führen soll. Trotz der deutlichen Kursverluste im Dezember läge die aktuelle Abweichung des Bitcoin noch im vorher festgelegten Rahmen, weshalb das Analyse-Modell aus der Sicht des Schöpfers nach wie vor intakt und anwendbar ist.
+
+Ursprünglich wurde prognostiziert, dass ein Bitcoin gegen Ende des Jahres bereits 100.000 Dollar wert sein könnte. Obwohl dies nun nicht eingetreten ist, sieht diese spezielle Vorhersage trotzdem einen Kursanstieg des Bitcoin auf rund 1 Million US-Dollar im Verlaufe des Jahres 2025 vor. So mathematisch fundiert diese Prognose auch sein mag, so ist sie aufgrund der berüchtigten Unberechenbarkeit des Crypto-Marktes trotzdem mit einem entsprechenden Maß an Skepsis zu betrachten. Der Schöpfer selbst gab zu, dass ein sogenanntes "Black Swan Event", wie beispielsweise weitere Crypto-Verbote oder ein Krieg mit China, dazu führen könnte, dass seine Vorhersagen letztendlich nicht zutreffen.
+
+Dieser Artikel wurde rein zu Informationszwecken veröffentlicht, und stellt keine Anlageberatung dar.
+
+
+---------NEW HOOKUP--------
+
+-> RANK: 13
+-> TITLE: Sollten Sie Crypto.com Coin (CRO) kaufen, nachdem es dem SBIP beigetreten ist?
+-> DATE: 2022-01-04 00:00:00
+
+
+{
+    "author": "[]",
+    "body_score": 0,
+    "category": "German",
+    "description": "",
+    "description_score": 0,
+    "rank": 13,
+    "score": 0.0,
+    "sentiment": {
+        "compound": 0.9784,
+        "neg": 0.061,
+        "neu": 0.837,
+        "pos": 0.101
+    },
+    "source": "https://invezz.com",
+    "source_rank": 53907,
+    "tickers": {
+        "Crypto": {
+            "CRO": 6
+        },
+        "Stocks": {}
+    },
+    "title_score": 0,
+    "url": "https://invezz.com/de/news/2022/01/04/crypto-com-coin-cro-kaufen-nachdem-es-sbip-beigetreten-ist/"
+}
+BODY:
+Milko nutzt seine Leidenschaft für Kryptowährungen und bringt Investoren jeden Tag etwas Neues bei. In seiner Freizeit geht er… read more
+
+Crypto.com CRO/USD ist eine Kryptowährungsbörse mit Sitz in Singapur. Es ermöglicht Benutzern, neben weniger bekannten Altcoins auch beliebte Kryptowährungen zu kaufen und zu verkaufen, und unterstützt Handel, Investitionen, Staking, Wallets, NFTs und vieles mehr.
+
+Der Crypto.com Coin (CRO) ist der native Krypto-Token, der in der Crypto.com-Chain verwendet wird und Zugang zu zahlreichen abgestuften Vorteilen innerhalb des Crypto.com-Ökosystems bietet.
+
+Die Partnerschaft mit der National University of Singapore als Wachstumskatalysator
+
+Sind Sie auf der Suche nach Schnell-Nachrichten, Hot-Tips und Marktanalysen? Dann melden Sie sich noch heute für den Invezz-Newsletter an.
+
+Am 14. Dezember diskutierten wir, ob es sich lohnt, Crypto.com zu kaufen, nachdem sein Wert um 45% fiel.
+
+Am 3. Januar wurde Crypto.com Teil einer Blockchain-Partnerschaft mit der National University of Singapore. Tatsächlich wurden sie Gold-Mitglied des Singapore Blockchain Innovation Programme.
+
+Infolgedessen wird Crypto.com die Entwicklung sowie die Einführung der Blockchain-Technologie in bisher unerschlossenen Sektoren fördern.
+
+Infolgedessen können wir sehen, dass die Börse ihre Präsenz in den Vereinigten Staaten weiter ausbaut, und wir haben sogar einen Anstieg der Transaktionen in der Cronos-Chain verzeichnet.
+
+Tatsächlich hat das Cronos-Testnetz 15 Millionen Transaktionen in seinem anreizorientierten Testnet-Event Cassani abgeschlossen.
+
+Sollten Sie Crypto.com Coin (CRO) kaufen?
+
+Am 4. Januar hatte Crypto.com Coin (CRO) einen Wert von 0,5586 $.
+
+Damit wir einen Hinweis darauf bekommen, was genau dieser Wertpunkt für den CRO-Token bedeutet, werden wir sein ATH sowie seine Performance im Dezember analysieren.
+
+In Bezug auf das Allzeithoch des CRO-Tokens erreichte der Token am 24. November einen Wert von 0,965407 $. Hier können wir sehen, dass der Token an seinem ATH um 0,406807$ oder um 73% höher lag.
+
+Wenn wir die Performance des CRO-Tokens im Dezember durchgehen, können wir sehen, dass sein höchster Punkt am 1. Dezember lag, als er einen Wert von 0,7668 $ erreichte.
+
+Sein niedrigster Wert im Dezember war jedoch am 20. Dezember, als der Token auf 0,4843 $ fiel. Dies gibt uns einen Hinweis darauf, dass der Token vom 1. Dezember bis zum 20. Dezember um 0,2825 $ oder 36% an Wert verloren hat.
+
+Vom 20. Dezember bis zum 4. Januar stieg der Wert des Tokens jedoch um 0,0743 $ oder um 15%.
+
+Vor diesem Hintergrund können wir davon ausgehen, dass der CRO bis Ende Januar 0,6 $ erreichen wird, was ihn zu einem soliden Kauf macht.
+

@@ -2,7 +2,9 @@ from FList import LIST
 from fairNLP import Ticker
 from fopResources import get_stock_tickers, tickers
 from jarEngine.Content.NLP import NLTK
+from FLog.LOGGER import Log
 
+Log = Log("Jarticle.Engine.Sozin")
 STOCK_TICKERS = get_stock_tickers()
 
 
@@ -33,14 +35,14 @@ def extract_tickers(content: str):
 # -> Handles a List of Tickers
 def classify_tickers(list_of_potential_tickers):
     """ -> PRIVATE -> Helper Method for classify_ticker() <- """
-    print(f"classify_tickers IN: {list_of_potential_tickers}")
+    Log.d(f"classify_tickers IN: {list_of_potential_tickers}")
     results = []
     stop_words = NLTK.stop_words
     for word in list_of_potential_tickers:
         temp = classify_ticker_v2(word, stopWords=stop_words)
         if temp:
             results.append(temp)
-    print(f"classify_tickers OUT: {results}")
+    Log.d(f"classify_tickers OUT: {results}")
     return results
 # -> Handles one single Ticker.
 def classify_ticker_v2(potential_ticker, stopWords=None):
@@ -63,13 +65,13 @@ def classify_ticker_v2(potential_ticker, stopWords=None):
     # -> Stock -> if in stock tickers and not in crypto tickers
     if word in STOCK_TICKERS:
         if word not in tickers.CRYPTO_TICKERS:
-            print(f"classify_tickers: Word={word}, Outcome={(stock, word)}")
+            Log.d(f"classify_tickers: Word={word}, Outcome={(stock, word)}")
             return stock, word
     # -> CRYPTO -> if word is in Special Tickers, crypto.
     if word in tickers.SPECIAL_TICKERS.keys():
-        print(f"classify_tickers: Word={word}, Outcome={(crypto, word)}")
+        Log.d(f"classify_tickers: Word={word}, Outcome={(crypto, word)}")
         return crypto, word
     # -> CRYPTO -> if word is in crypto tickers
     if word in tickers.CRYPTO_TICKERS:
-        print(f"classify_tickers: Word={word}, Outcome={(crypto, word)}")
+        Log.d(f"classify_tickers: Word={word}, Outcome={(crypto, word)}")
         return crypto, word

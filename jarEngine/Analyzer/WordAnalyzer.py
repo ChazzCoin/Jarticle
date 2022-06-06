@@ -3,8 +3,8 @@ from FSON import DICT
 from FList import LIST
 from FDate import DATE
 from fairNLP import Language
-from Jarticle.jArticles import jArticles
-
+from jarProvider import ArticleProvider as ap
+import fairResources
 """
 -> This Analyzer will grab each day from the archive
     - Count all words.
@@ -20,6 +20,7 @@ BI_GRAMS = "bi_grams"
 TRI_GRAMS = "tri_grams"
 QUAD_GRAMS = "quad_grams"
 
+STOPWORDS = fairResources.get_stopwords()
 
 class Analyzer:
     original_dates = []
@@ -45,40 +46,21 @@ class Analyzer:
         -> RUNNERS
     """
     # Run Dates in Archive
-    def run_archive_dates(self, dates):
+    def run_archive_dates(self, datesBack=1):
         """ Add Dates, Get Archives, Parse Hookups -> Start """
-        self.original_dates = dates
-        for date in self.original_dates:
-            self.set_hookups_from_archive(date)
-        self.start()
+        records_by_date = ap.get_date_range_list(datesBack)
+        for date_of_arts in records_by_date:
+            self.analyze_articles(date_of_arts)
 
-    # Run New Hookups
-    def run_hookups(self, hookups: []):
-        """ Add Hookups -> Start """
-        self.add_hookups(hookups)
-        self.start()
-
-    # Run Any String Content
-    def run_raw_content(self, raw_content: str):
-        """ Add String Content -> Start """
-        self.raw_content = raw_content
-        self.start()
-
-    """
-        -> START / FINISH
-    """
-    def start(self):
-        # Gather All Words
-        if self.raw_content:
-            self.tokenize_raw_content(self.raw_content)
-        else:
-            self.prepare_hookups()
-        self.finish()
-
-    def finish(self):
+    def analyze_articles(self, articles):
+        for art in articles:
+            title = DICT.get("title", art, "")
+            body = DICT.get("body", art, "")
+            description = DICT.get("description", art, "")
+            content = Language.combine_args_str(title, description, body)
+            self.tokenize_raw_content(content)
         self.set_word_counts()
         self.set_ordered_counts()
-        self.build_query()
 
     """
         -> MASTER DYNAMIC ANALYZERS
@@ -107,7 +89,7 @@ class Analyzer:
     """
     def filter(self, content, apply=True):
         if apply:
-            temp_one = self.remove_stop_words_from_grams(content, self.topic.stop_words)
+            temp_one = self.remove_stop_words_from_grams(content, STOPWORDS)
             temp = self.filter_words_less_than_x_length(temp_one)
             return temp
         return content
@@ -125,21 +107,8 @@ class Analyzer:
     """
         -> HELPERS
     """
-    def add_hookups(self, hookups: []):
-        self.original_hookups = LIST.merge_lists(self.original_hookups, hookups)
 
-    def prepare_hookups(self):
-        for hookup in self.original_hookups:
-            content = Language.combine_args_str(hookup.title, hookup.description, hookup.body)
-            self.tokenize_raw_content(content)
 
-    def set_hookups_from_archive(self, date):
-        records = self.get_hookups_from_archive(date)
-        for record in records:
-            # Init
-            self.archive_ids.append(record[0])
-            self.archive_dates.append(record[1])
-            self.add_hookups(record[2])
 
     @staticmethod
     def remove_stop_words_from_grams(grams, stopwords):
@@ -152,14 +121,14 @@ class Analyzer:
         return temp
 
     def build_query(self):
-        self.insertQuery = {"date": self.archive_dates,
-                            "dateCreated": self.current_date,
-                            "one": self.single_grams_count,
-                            "two": self.bi_grams_count,
-                            "three": self.tri_grams_count,
-                            "four": self.quad_grams_count}
+        self.insertQuery = {
+                            "grams": self.single_grams_count,
+                            "bigrams": self.bi_grams_count,
+                            "trigrams": self.tri_grams_count,
+                            "quadgrams": self.quad_grams_count
+                            }
 
 
 if __name__ == '__main__':
     c = Analyzer()
-    c.run_archive_dates(["February 28 2022", "February 27 2022", "February 26 2022"])
+    c.run_archive_dates(1)

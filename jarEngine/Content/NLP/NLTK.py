@@ -113,6 +113,7 @@ def summarize_v2(content='', max_sents=5):
         return []
     keepList = []
     # Pre. -> Convert raw string of text into a List of Sentences.
+    # sent_test = Language.to_sentences(content)
     sentences = tokenize_content_into_sentences(content)
     # 1. -> If only 6 or less sentences to start, return now
     if len(sentences) <= 6:

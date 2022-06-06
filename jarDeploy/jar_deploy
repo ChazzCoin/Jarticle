@@ -1,0 +1,6 @@
+#! /bin/sh
+# /usr/bin/bash
+# -> run main.py with venv
+#
+cd ../../.
+sudo rsync -r Jarticle/ jarticle@192.168.1.250:/home/jarticle/bin/TiffanySystems/Jarticle

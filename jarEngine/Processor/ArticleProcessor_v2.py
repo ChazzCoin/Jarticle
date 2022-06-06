@@ -6,6 +6,7 @@ from FSON import DICT
 from FDate import DATE
 
 from jarProvider import ArticleProvider as ap
+from Jarticle.jCompany import jCompany
 
 from FLog.LOGGER import Log
 Log = Log("Jarticle.Engine.Processor.ArticleProcessor_v2")
@@ -25,7 +26,7 @@ def categorizer(article):
     return TopicProcessor_v1.TopicProcessor().process_single_article_v1(article)
 
 def sozin(content):
-    tickers = sp.extract_tickers(content)
+    tickers = sp.extract_all(content)
     stock_tickers = LIST.get(0, tickers)
     crypto_tickers = LIST.get(1, tickers)
     Log.d("Tickers: " + str(tickers))
@@ -37,6 +38,18 @@ def sozin(content):
         return crypto_tickers
     return False
 
+def get_company_reference(article):
+    tickers = DICT.get("tickers", article)
+    if not tickers:
+        return False
+    jc = jCompany.constructor_jcompany()
+    references = {}
+    for key in tickers:
+        id = jc.get_company_id_for_ticker(key)
+        if id and key not in references.keys():
+            references[key] = id
+    return references
+
 def get_summary(article):
     body = DICT.get("body", article, default="False")
     summary = NLTK.summarize_v2(body, 4)
@@ -46,7 +59,7 @@ def get_summary(article):
 def get_keywords(article):
     title = DICT.get("title", article, default="False")
     body = DICT.get("body", article, default="False")
-    keywords = NLTK.keywords(body + title)
+    keywords = NLTK.keywords(str(body) + str(title))
     newList = []
     for item in keywords:
         newList.append(item)
@@ -68,6 +81,7 @@ def enhance_article(article, content):
     article["keywords"] = get_keywords(article)
     article["summary"] = get_summary(article)
     article["tickers"] = sozin(content)
+    article["company_ids"] = get_company_reference(article)
     article["sentiment"] = get_sentiment(content)
     article["source_rank"] = get_source_page_rank(article)
     article["updatedDate"] = DATE.mongo_date_today_str()
@@ -79,6 +93,7 @@ def update_enhanced_summary(article):
 
 # -> Processing Class Object
 class ArticleProcessor:
+    overall_count = 0
     isTest = False
 
     @classmethod
@@ -92,6 +107,7 @@ class ArticleProcessor:
             if not article:
                 continue
             newClas.process_article(article, isUpdate=False)
+        Log.i(f"Enhanced {newClas.overall_count} Articles!")
 
     @classmethod
     def RUN_UPDATE(cls, isTest=False):
@@ -104,6 +120,7 @@ class ArticleProcessor:
             if not article:
                 continue
             newClas.process_article(article, isUpdate=True)
+        Log.i(f"Enhanced {newClas.overall_count} Articles!")
 
     # -> Master Runner of Single Article
     def process_article(self, article, isUpdate):
@@ -114,9 +131,10 @@ class ArticleProcessor:
         if isUpdate and updated_date == LAST_UPDATE:
             return
         # -> Setup
+        self.overall_count += 1
         id = DICT.get("_id", article)
         date = DICT.get("published_date", article, "unknown")
-        Log.i(f"Enhancing Article ID=[ {id} ], DATE=[ {date} ]")
+        Log.i(f"Enhancing Article ID=[ {id} ], DATE=[ {date} ], COUNT=[ {self.overall_count} ]")
         title = DICT.get("title", article)
         body = DICT.get("body", article)
         description = DICT.get("description", article)

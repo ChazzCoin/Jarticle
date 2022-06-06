@@ -1,0 +1,3 @@
+from jarEngine.Processor.ArticleProcessor_v2 import ArticleProcessor
+
+ArticleProcessor.RUN_UPDATE(isTest=False)

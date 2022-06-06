@@ -13,7 +13,7 @@ def get_date_range_list(daysBack):
     daysbacklist = DATE.get_range_of_dates_by_day(DATE.mongo_date_today_str(), daysBack)
     tempListOfArticles = []
     for day in daysbacklist:
-        tempArts = jdb.get_articles_by_date(day)
+        tempArts = jdb.get_articles_by_date(day, unlimited=True)
         if tempArts:
             tempListOfArticles.append(tempArts)
     return tempListOfArticles

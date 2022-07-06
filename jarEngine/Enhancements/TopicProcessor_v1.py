@@ -47,11 +47,11 @@ class TopicProcessor:
                 Log.e(f"Failed to process hookup. hookup= [ {article} ] ", error=e)
                 # return article
 
-    def process_single_article_v1(self, article):
+    def process_single_article_v1(self, article, isUpdate=False):
         try:
             id = DICT.get("_id", article)
             cat_attempt = DICT.get("category", article, False)
-            if cat_attempt:
+            if not isUpdate and cat_attempt:
                 return article
             Log.d(f"process_single_article_v1: article={id}")
             title = DICT.get("title", article)
@@ -68,6 +68,13 @@ class TopicProcessor:
             matched_main_terms = LIST.get(2, main_cats)
             # -> Sub Variables
             highest_topic_name = LIST.get(0, sub_cats)
+
+            if highest_topic_name == "metaverse":
+                # take secondary list and add scores...
+                pass
+
+
+
             highest_score = LIST.get(1, sub_cats)
             matched_terms = LIST.get(2, sub_cats)
             Log.d(f"Setting ALL Variables: article={id}")

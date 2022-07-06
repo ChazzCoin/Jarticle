@@ -2,7 +2,17 @@
 from FSON import DICT
 from FDate import DATE
 from Jarticle.jArticles import jArticles
+from Jarticle import jArticleProvider as jap
 jdb = jArticles.constructor_jarticles()
+
+def get_metaverse_articles():
+    return jap.get_categories("metaverse")
+
+def get_no_published_date(unlimited=False):
+    return jdb.get_articles_no_date(unlimited=unlimited)
+
+def get_no_published_date_not_updated_today(unlimited=False):
+    return jdb.get_articles_no_date_not_updated_today(unlimited=unlimited)
 
 # -> MongoDB
 def update_article_in_database(article: {}):

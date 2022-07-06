@@ -2,8 +2,8 @@ from yahoo_fin import stock_info as si
 import yfinance as yf
 import json
 
-from jarFAIR.Core import DICT
-from jarFAIR.Logger.CoreLogger import Log
+from FSON import DICT
+from FLog.LOGGER import Log
 Log = Log("Clients.YahooClient")
 
 class CompanyClient:
@@ -21,15 +21,15 @@ class CompanyClient:
     def __init__(self, ticker: str):
         # Log.i(f"Starting Client: Ticker={ticker}")
         self.client_ticker = yf.Ticker(ticker.upper())
-        self.get_info()
+        # self.get_info()
         self.get_history()
-        self.get_major_holders()
-        self.get_institutional_holders()
-        self.get_earnings()
-        self.get_quarterly_earnings()
-        self.get_calendar()
-        self.get_news()
-        self.get_financials()
+        # self.get_major_holders()
+        # self.get_institutional_holders()
+        # self.get_earnings()
+        # self.get_quarterly_earnings()
+        # self.get_calendar()
+        # self.get_news()
+        # self.get_financials()
 
     # Get Current Crypto Price for Ticker
     def get_crypto_price(self, ticker):
@@ -83,9 +83,10 @@ class CompanyClient:
 
 
 if __name__ == '__main__':
-    y = CompanyClient("MPC")
+    y = CompanyClient("MSFT")
     breakdown = DICT.get("client_ticker", y)
     fins = DICT.get("financials", y)
+    his = DICT.get("history", y)
     temp = breakdown.earnings
     # y.graph_dataframe(fins)
     print("nothing")
